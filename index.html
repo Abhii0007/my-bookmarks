@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bookmark Viewer</title>
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Segoe UI,Arial,sans-serif;
+}
+
+body{
+    background:#202124;
+    color:white;
+    padding:20px;
+}
+
+.container{
+    max-width:900px;
+    margin:auto;
+}
+
+.header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:15px;
+}
+
+.title{
+    font-size:24px;
+    font-weight:600;
+}
+
+.controls{
+    display:flex;
+    gap:10px;
+    margin-bottom:15px;
+}
+
+input[type="file"]{
+    background:#303134;
+    color:white;
+    border:none;
+    padding:10px;
+    border-radius:8px;
+}
+
+#search{
+    flex:1;
+    padding:10px;
+    background:#303134;
+    color:white;
+    border:none;
+    outline:none;
+    border-radius:8px;
+}
+
+.bookmarks{
+    background:#292a2d;
+    border-radius:12px;
+    overflow:hidden;
+}
+
+.bookmark{
+    display:flex;
+    align-items:center;
+    gap:12px;
+    padding:12px 16px;
+    text-decoration:none;
+    color:white;
+    border-bottom:1px solid #3c4043;
+    transition:.15s;
+}
+
+.bookmark:hover{
+    background:#3c4043;
+}
+
+.bookmark:last-child{
+    border-bottom:none;
+}
+
+.icon{
+    width:20px;
+    height:20px;
+    border-radius:4px;
+    flex-shrink:0;
+}
+
+.info{
+    flex:1;
+    overflow:hidden;
+}
+
+.name{
+    font-size:14px;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+
+.url{
+    font-size:12px;
+    color:#9aa0a6;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+
+.count{
+    color:#9aa0a6;
+}
+
+.empty{
+    padding:30px;
+    text-align:center;
+    color:#9aa0a6;
+}
+
+</style>
+</head>
+<body>
+
+<div class="container">
+
+    <div class="header">
+        <div class="title">📑 Chrome Bookmarks</div>
+        <div class="count" id="count">0 bookmarks</div>
+    </div>
+
+    <div class="controls">
+        <input type="file" id="jsonFile" accept=".json">
+        <input
+            type="text"
+            id="search"
+            placeholder="Search bookmarks..."
+        >
+    </div>
+
+    <div class="bookmarks" id="bookmarks">
+        <div class="empty">
+            Select your Bookmarks.json file
+        </div>
+    </div>
+
+</div>
+
+<script>
+
+let allBookmarks = [];
+
+function getHostname(url){
+    try{
+        return new URL(url).hostname;
+    }catch{
+        return url;
+    }
+}
+
+function getFavicon(url){
+    try{
+        return "https://www.google.com/s2/favicons?domain=" +
+               new URL(url).hostname +
+               "&sz=64";
+    }catch{
+        return "";
+    }
+}
+
+function renderBookmarks(bookmarks){
+
+    const container =
+        document.getElementById("bookmarks");
+
+    document.getElementById("count").textContent =
+        bookmarks.length + " bookmarks";
+
+    container.innerHTML = "";
+
+    if(bookmarks.length === 0){
+        container.innerHTML =
+            '<div class="empty">No bookmarks found</div>';
+        return;
+    }
+
+    bookmarks.forEach(bookmark => {
+
+        const title =
+            bookmark.title || "(Untitled)";
+
+        const url =
+            bookmark.url || "";
+
+        const item =
+            document.createElement("a");
+
+        item.className = "bookmark";
+        item.href = url;
+        item.target = "_blank";
+
+        item.innerHTML = `
+            <img
+                class="icon"
+                src="${getFavicon(url)}"
+                onerror="this.style.display='none'"
+            >
+
+            <div class="info">
+                <div class="name">
+                    ${title}
+                </div>
+
+                <div class="url">
+                    ${getHostname(url)}
+                </div>
+            </div>
+        `;
+
+        container.appendChild(item);
+    });
+}
+
+document
+.getElementById("jsonFile")
+.addEventListener("change", function(e){
+
+    const file = e.target.files[0];
+
+    if(!file) return;
+
+    const reader = new FileReader();
+
+    reader.onload = function(event){
+
+        try{
+
+            const json =
+                JSON.parse(event.target.result);
+
+            allBookmarks =
+                json.filter(item =>
+                    item.url &&
+                    typeof item.url === "string"
+                );
+
+            renderBookmarks(allBookmarks);
+
+        }
+        catch(error){
+
+            alert(
+                "Invalid JSON file."
+            );
+
+            console.error(error);
+        }
+    };
+
+    reader.readAsText(file);
+});
+
+document
+.getElementById("search")
+.addEventListener("input", function(){
+
+    const q =
+        this.value.toLowerCase();
+
+    const filtered =
+        allBookmarks.filter(bookmark =>
+
+            (bookmark.title || "")
+                .toLowerCase()
+                .includes(q)
+
+            ||
+
+            (bookmark.url || "")
+                .toLowerCase()
+                .includes(q)
+        );
+
+    renderBookmarks(filtered);
+});
+
+</script>
+
+</body>
+</html>
