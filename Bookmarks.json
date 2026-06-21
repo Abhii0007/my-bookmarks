@@ -1,171 +1,1386 @@
 [
-  {"title":"Chatgpt","url":"https://chat.openai.com/chat","tags":[]},
-  {"title":"youtube","url":"http://youtube.com/","tags":[]},
-  {"title":"Blind 75 Leetcode problems : Detailed Video Solutions","url":"https://takeuforward.org/interviews/blind-75-leetcode-problems-detailed-video-solutions","tags":[]},
-  {"title":"Find your phone","url":"https://myaccount.google.com/find-your-phone?pli=1","tags":[]},
-  {"title":"Two Sum - LeetCode","url":"https://leetcode.com/problems/two-sum/submissions/","tags":[]},
-  {"title":"Prepinsta","url":"https://prepinsta.com/microsoft/","tags":[]},
-  {"title":"IndiaBix Aptitude","url":"https://www.indiabix.com/","tags":[]},
-  {"title":"W3Schools Dsa","url":"https://www.w3schools.com/dsa/index.php","tags":[]},
-  {"title":"Github","url":"https://github.com/Abhii0007","tags":[]},
-  {"title":"Inbox (48) - abhi639679@gmail.com - Gmail","url":"https://mail.google.com/mail/u/0/#inbox","tags":[]},
-  {"title":"MDN Web Help","url":"https://developer.mozilla.org/en-US/","tags":[]},
-  {"title":"Compress video - free tool to compress a video online","url":"https://www.compress2go.com/compress-video","tags":[]},
-  {"title":"Skill INDIA Internships","url":"https://www.skillindiadigital.gov.in/internship","tags":[]},
-  {"title":"Kaggle AI Models","url":"https://www.kaggle.com/models","tags":[]},
-  {"title":"CDN JS","url":"https://cdnjs.com/","tags":[]},
-  {"title":"Advance Concepts of Python for Python Developer - Javatpoint","url":"https://www.javatpoint.com/advance-concepts-of-python-for-python-developer","tags":[]},
-  {"title":"W3Schools Online Web Tutorials","url":"https://www.w3schools.com/","tags":[]},
-  {"title":"NPTEL COURSE SWYAM","url":"https://swayam.gov.in/mycourses","tags":[]},
-  {"title":"Abhiiverma007","url":"https://abhi639679.wixsite.com/abhishek","tags":[]},
-  {"title":"What is Qt Design Studio? - What is Qt Design Studio?","url":"https://courses.qt.io/what-is-qt-design-studio-/index.html#/lessons/j0koF6BKJ_0CZSqWPIsVAfjcHOM9WvH-","tags":[]},
-  {"title":"How To Attach An Image In Turtle Pythonhttps://pythonguides.com › attach-image-to-turtle-python","url":"https://pythonguides.com/attach-image-to-turtle-python/","tags":[]},
-  {"title":"PDF DRIVE","url":"https://www.pdfdrive.com/computer-science-books.html","tags":[]},
-  {"title":"","url":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAABzUlEQVRYhe3Wy27TYBAF4A+2ZAkRECpuFeVdemFL6RMAZYHaF2FHEQ9QhRYJBDwILCo2sKDsoV2FEMzin8iRaxzbKeqiPZKl5J8zM8dje2Y4w2nHuYb8OdzDIm7Ef/iGr3iPN9g/LoFj9LCFIbIp1wh9XD+u5Cs4iOADbOM+FnAhrgWshm0Q3AMsz5r8iXRHmXRXN2v43MKOvBrrbZOvRIDfeNrCfyN8R1pUoicve5vkkyIy/MSVJo4v5WWfFbsRa6uuw5xUuoHyZ/4Q3ZLzbtiKuB2xhlJlp2JdUrxdYnsUtk8FEd04y4JTRL/CdgQfgrxaYptMNBZRdlbEWtjf1RHwOch3/mEvJpyWnNQnMuzVEXAY5E4F5xI+yrvfHi5X8DvBOywazpeQszoqS1A1V8Z5/tQJdOKP4MRfwsf+32dY1ieO4JrUNAbSYCmiaSOa17ARwQtJ8U5dhwq8jljPmzhdlQ+jjRmSb0aMH6o/01Isy8dxGxGb8nG82MIfaS6MF5JdabBMw7y87CPppZ4JS9I8H69kfTzAXanDdeL3Gl7hl7zsre+8iIt4pt5SOpRmf60FpOla3pNWtSVpV5hcy79Ia/lbfG8Y9wynGH8BHnKpr/YwVJ8AAAAASUVORK5CYII=","tags":[]},
-  {"title":"","url":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAABzUlEQVRYhe3Wy27TYBAF4A+2ZAkRECpuFeVdemFL6RMAZYHaF2FHEQ9QhRYJBDwILCo2sKDsoV2FEMzin8iRaxzbKeqiPZKl5J8zM8dje2Y4w2nHuYb8OdzDIm7Ef/iGr3iPN9g/LoFj9LCFIbIp1wh9XD+u5Cs4iOADbOM+FnAhrgWshm0Q3AMsz5r8iXRHmXRXN2v43MKOvBrrbZOvRIDfeNrCfyN8R1pUoicve5vkkyIy/MSVJo4v5WWfFbsRa6uuw5xUuoHyZ/4Q3ZLzbtiKuB2xhlJlp2JdUrxdYnsUtk8FEd04y4JTRL/CdgQfgrxaYptMNBZRdlbEWtjf1RHwOch3/mEvJpyWnNQnMuzVEXAY5E4F5xI+yrvfHi5X8DvBOywazpeQszoqS1A1V8Z5/tQJdOKP4MRfwsf+32dY1ieO4JrUNAbSYCmiaSOa17ARwQtJ8U5dhwq8jljPmzhdlQ+jjRmSb0aMH6o/01Isy8dxGxGb8nG82MIfaS6MF5JdabBMw7y87CPppZ4JS9I8H69kfTzAXanDdeL3Gl7hl7zsre+8iIt4pt5SOpRmf60FpOla3pNWtSVpV5hcy79Ia/lbfG8Y9wynGH8BHnKpr/YwVJ8AAAAASUVORK5CYII=","tags":[]},
-  {"title":"Metaverse 3D Avatar Creator | Ready Player Me","url":"https://readyplayer.me/","tags":[]},
-  {"title":"Popular models | 3D CAD Model Collection | GrabCAD Community Library","url":"https://grabcad.com/library","tags":[]},
-  {"title":"Panzoid|Insane Intro Template|TurizoFX - Panzoid","url":"https://panzoid.com/creations/178455","tags":[]},
-  {"title":"(3) Smartways Of tech - 3D model by Smartways Tech 3D (@abhishekverma) - Sketchfab","url":"https://sketchfab.com/models/3a3fe635be8f415fbd654ca6c7a32136","tags":[]},
-  {"title":"Personal, Family or Travel Slideshow Templates to Make Engaging Videos | Renderforest","url":"https://www.renderforest.com/Slideshow/personal-slideshow","tags":[]},
-  {"title":"group D 2018 admit card ","url":"https://dc4-g22.digialm.com/EForms/configuredHtml/2022/57738/login.html","tags":[]},
-  {"title":"Extract the tags from a Youtube Video","url":"https://online-free-tools.com/en/youtube_video_tags_extract_url","tags":[]},
-  {"title":"httpss://0.0.0.3","url":"http://sachin.somee.com/superuser3@Lid=vision@pass=infinity/","tags":[]},
-  {"title":"#73 [Colorful/Plastic/Sync] Intro Template - Blender [2.79] - Velosofy","url":"https://www.velosofy.com/template/73-colorful-plastic-sync-intro-template-blender-2-79-8kddxth-l0a","tags":[]},
-  {"title":"Powered by Alpha Broadway System (http://alphabroadway.com)","url":"http://ftp.alphamediazone.com/","tags":[]},
-  {"title":"Doodle 4 Google","url":"https://doodles.google.co.in/d4g/?utm_source=google&utm_medium=hpp&utm_campaign=sept-28","tags":[]},
-  {"title":"Light Intros Template Library | Videobolt.net Online Video Marketplace","url":"https://videobolt.net/home/cat-intros/tag-light","tags":[]},
-  {"title":"Full Version Software & Games Download Direct Link PCDownloadZ","url":"https://www.pcdownloadz.xyz/","tags":[]},
-  {"title":"Sachin verma","url":"http://sachin.somee.com/","tags":[]},
-  {"title":"Smartways of Tech Youtube channel","url":"http://smartways.somee.com/","tags":[]},
-  {"title":"WebGL Samples","url":"http://webglsamples.org/","tags":[]},
-  {"title":"22 Experimental WebGL Demo Examples","url":"https://www.awwwards.com/22-experimental-webgl-demo-examples.html","tags":[]},
-  {"title":"File manager","url":"http://somee.com/DOKA/DOU/DOMP/DOWebSites/DOSiteFileManager.aspx?k1k3k5=CJU0mQFx4Qn%2fspA0EufRLr2i927sqcEEIe6HATS5McE%3d","tags":[]},
-  {"title":"appleseed - A modern, open source production renderer","url":"https://appleseedhq.net/","tags":[]},
-  {"title":"Realtime PBR in Blender | CG Masters","url":"https://cgmasters.net/free-tutorials/realtime-pbr-in-blender/","tags":[]},
-  {"title":"FoxRenderfarm","url":"https://task.foxrenderfarm.com/render","tags":[]},
-  {"title":"https://task.foxrenderfarm.com/account?register!in.action&email=","url":"https://task.foxrenderfarm.com/account?register!in.action&email=","tags":[]},
-  {"title":"Demo Files — blender.org","url":"https://www.blender.org/download/demo-files/","tags":[]},
-  {"title":"Sheep it Render Farm","url":"https://www.sheepit-renderfarm.com/account.php?mode=login&redirect=%2Fjobs.php","tags":[]},
-  {"title":"3D Models for Professionals :: TurboSquid","url":"https://www.turbosquid.com/","tags":[]},
-  {"title":"Free 3D Models for Download | TurboSquid","url":"https://www.turbosquid.com/Search/Index.cfm?keyword=free&media_typeid=2","tags":[]},
-  {"title":"Davide Tirindelli on Gumroad","url":"https://gumroad.com/davzeppelin#","tags":[]},
-  {"title":"53 Best Free 4K Tech Wallpapers - WallpaperAccess","url":"https://wallpaperaccess.com/4k-tech","tags":[]},
-  {"title":"DriverToolkit 8.5.1 License Keys and Emails - Free Activation","url":"https://samdownloads.net/drivertoolkit-8-license-key-email/","tags":[]},
-  {"title":"Blue Tech Wallpaper on WallpaperGet.com","url":"http://wallpaperget.com/blue-tech-wallpaper","tags":[]},
-  {"title":"WhatsApp","url":"https://web.whatsapp.com/","tags":[]},
-  {"title":"Moto Racing 2 Download Free - GameTop","url":"https://www.gametop.com/download-free-games/moto-racing-2/download.html","tags":[]},
-  {"title":"YouTube","url":"https://www.youtube.com/channel/UCBiRHF0Y8d6LY_CZTw871Gw","tags":[]},
-  {"title":"Bugatti Vision Gran Turismo 2015 3D Model.rar - Syncs all your files Online","url":"https://www.syncs.online/1iJu/Bugatti_Vision_Gran_Turismo_2015_3D_Model.rar","tags":[]},
-  {"title":"CSR CSR8510 A10 bluetooth dongle 4.0 original CD drivers setup.zip - Google Drive","url":"https://drive.google.com/file/d/1cThcmEjmPOxPStDdrWx5bHiyy_gv2xXF/edit","tags":[]},
-  {"title":"MEGA","url":"https://mega.nz/#F!A1AGyTLb!iJaWmxngvENpmBDEzc6jFw","tags":[]},
-  {"title":"CSR8510A10 Driver, here available! - Page 2 - Windows 7 Help Forums","url":"https://www.sevenforums.com/drivers/338736-csr8510a10-driver-here-available-2.html?s=f989fd43c8900bc6acb7fec366ac69c2","tags":[]},
-  {"title":"CSR8510A10 Driver, here available! - Page 2 - Windows 7 Help Forums","url":"https://www.sevenforums.com/drivers/338736-csr8510a10-driver-here-available-2.html","tags":[]},
-  {"title":"MEGA 5%","url":"https://mega.nz/#!GMBGSaJD!r3slfconyYsSq2MpxcvRn_nq0tO3-m0SX9pJcPchAiQ","tags":[]},
-  {"title":"Bluetooth Dongle driver for RT-BT4 / RT-BT4B/RT-BT4D - rocketeck","url":"http://www.rocketek.hk/sdm_downloads/bluetooth-dongle-driver-for-rt-bt4-rt-bt4b/","tags":[]},
-  {"title":"CSR8510 CSR 4.0 USB Bluetooth 4.0 Adapter Driver download for Win XP/Vista/7/8-Computer Cables & Adapters-MiniHere","url":"http://www.minihere.com/csr8510-csr-4-0-usb-bluetooth-4-0-adapter-driver-download-for-win-xpvista78.html","tags":[]},
-  {"title":"Fix Bluetooth Drivers Problems | Bluetooth Driver Download | Drivers.com","url":"https://www.drivers.com/fix_bluetooth_drivers/","tags":[]},
-  {"title":"Play 3D games in SBS on the virtual screen using BigScreen - GeForce Forums","url":"https://forums.geforce.com/default/topic/961597/oculus/play-3d-games-in-sbs-on-the-virtual-screen-using-bigscreen/","tags":[]},
-  {"title":"(14) SA DirectX 2.0 New Gameplay - GTA San Andreas 2018 - YouTube","url":"https://www.youtube.com/watch?v=0-3o5l0Letw","tags":[]},
-  {"title":"GTA San Andreas Redux Graphics San Andreas Mod - GTAinside.com","url":"https://www.gtainside.com/en/sanandreas/mods-124/101121-redux-graphics-san-andreas/","tags":[]},
-  {"title":"4k Wallpapers [Free Download!] | 100+ best free wallpaper, cloud, light, and rock photos on Unsplash","url":"https://unsplash.com/wallpaper/1339090/4k-wallpapers","tags":[]},
-  {"title":"Wide Angle Photo Of Road · Free Stock Photo","url":"https://www.pexels.com/photo/wide-angle-photo-of-road-1563355/","tags":[]},
-  {"title":"Free Wallpaper · Pexels · Free Stock Photos","url":"https://www.pexels.com/search/free%20wallpaper/","tags":[]},
-  {"title":"Search Blends | Blend Swap","url":"https://www.blendswap.com/blends/search?keywords=grass&is_fan_art=1&blend_license=&render_engine=&sort=downloads&direction=desc","tags":[]},
-  {"title":"Gmail","url":"https://accounts.google.com/b/0/AddMailService","tags":[]},
-  {"title":"YouTube","url":"https://youtube.com/","tags":[]},
-  {"title":"Maps","url":"https://maps.google.com/","tags":[]},
-  {"title":"Google Sky","url":"https://www.google.com/sky/","tags":[]},
-  {"title":"Dashboard","url":"https://live.browserstack.com/dashboard#os=android&os_version=7.1&device=Samsung+Galaxy+Note+8&device_browser=chrome&zoom_to_fit=true&full_screen=true&url=www.google.com&speed=1","tags":[]},
-  {"title":"Google Drive - Virus scan warning","url":"https://drive.google.com/uc?id=1VHMU_cCg2CmFaUjfBDEqPKcZuj2vYt_V&export=download","tags":[]},
-  {"title":"Galaxy J Series Firmware – Unlock Network / FRP Lock Samsung LG Online Service","url":"https://simunlockremote.com/galaxy-j-series-firmware/","tags":[]},
-  {"title":"Mercury 3D Model | NASA Solar System Exploration","url":"https://solarsystem.nasa.gov/resources/2369/mercury-3d-model/","tags":[]},
-  {"title":"Translate","url":"https://translate.google.com/","tags":[]},
-  {"title":"News","url":"https://news.google.com/","tags":[]},
-  {"title":"","url":"http://www.4kdownload.com/thanks-for-installing?source=videodownloader","tags":[]},
-  {"title":"r3","url":"https://filecrypt.co/Container/CA36037E47.html","tags":[]},
-  {"title":"Word Art - Edit - WordArt.com","url":"https://wordart.com/create","tags":[]},
-  {"title":"Filecrypt","url":"https://filecrypt.co/Container/E68351F207.html","tags":[]},
-  {"title":"forza","url":"https://filecrypt.co/Container/C631CBCF0A.html","tags":[]},
-  {"title":"Download Cool NVIDIA Demos | NVIDIA Cool Stuff","url":"https://www.nvidia.in/coolstuff/demos","tags":[]},
-  {"title":"just cause 4","url":"https://filecrypt.co/Container/36FF4BD19F.html","tags":[]},
-  {"title":"ultron","url":"https://drive.google.com/file/d/108N2dSp8jTNaaboJDFmYHasRMH3G-XdJ/view","tags":[]},
-  {"title":"flight simulator","url":"https://gamepcfull.com/microsoft-flight-simulator/","tags":[]},
-  {"title":"Crack wifi handshake using hashcat in windows. - Warmodroid","url":"https://www.warmodroid.xyz/hacking/crack-wifi-handshake-using-hashcat-in-windows/","tags":[]},
-  {"title":"gdtot.com","url":"https://gdtot.com/apM1YnQ/doctor-strange-2016-2160p-uhd-hdr-bluray-hindi-eng-x265-10bit-ac5-1-katmoviehd-net-mkv","tags":[]},
-  {"title":"GDToT | Copy of Iron Man 3 (2013) 2160p UHD HDR REMASTERED 10bit Bluray x265 HEVC [Org DDP 5.1 Hindi + Dolby TrueHD Atmos 7.1 English] MSubs ~ IAMABLE [iNTERNAL].mkv","url":"https://new.gdtot.com/file/27715901595","tags":[]},
-  {"title":"MasterZoFtech – MasterZoFtech.CoM","url":"https://masterzoftech.com/527/","tags":[]},
-  {"title":"nfs hest","url":"https://drive.google.com/drive/folders/1gsicMNAawcHXxjF3O8AYYhlkpNaujjAd","tags":[]},
-  {"title":"nfs hest site","url":"https://bajarjuegospcgratis.com/descargar-need-for-speed-heat-pc-full-espanol-gratis-mega-google-drive/","tags":[]},
-  {"title":"Google Drive - Virus scan warning","url":"https://drive.google.com/u/0/uc?export=download&confirm=is_6&id=1e-bZ3jPas3Q6TA6MncdyGZaVs_3X1N8E","tags":[]},
-  {"title":"Ride 4 [CODEX] (Update v1.0.0.10 incl DLC) » Game PC Full - Free Download PC Games - Crack - Direct Link","url":"https://gamepcfull.com/ride-4/","tags":[]},
-  {"title":"Ride 4","url":"https://filecrypt.co/Container/AEBDC9AC26.html","tags":[]},
-  {"title":"Samsung galaxy J6 SM-J600G Combination file U4 (Binary 4) J600GDXU4ASG1 - Download Firmware","url":"https://androidcustomfirmware.com/samsung-galaxy-j6-sm-j600g-combination-file-u4-binary-4-j600gdxu4asg1/","tags":[]},
-  {"title":"u4 9.0 ins","url":"https://drive.google.com/file/d/1JjWoVdj9yEnbrB0oyKFTyFbBfk7zr4B5/view","tags":[]},
-  {"title":"tdp","url":"https://www.gpuzoo.com/GPU-NVIDIA/GeForce_210_GDDR3.html#:~:text=The%20card%20has%201.402%20GHz,bandwidth%20is%2012.8%20GB%2Fs.","tags":[]},
-  {"title":"Players using Emulators like Nox, be safe(er) by masking your device descriptors. Guide inside : pokemongodev","url":"https://www.reddit.com/r/pokemongodev/comments/4y3u15/players_using_emulators_like_nox_be_safeer_by/","tags":[]},
-  {"title":"[Solved] How to Bypass \"Emulator detected\" Warning while playing PUBG on PC?","url":"https://techiestechguide.com/bypass-emulator-detected-pubg/","tags":[]},
-  {"title":"(1) ARI Movies – Posts | Facebook","url":"https://www.facebook.com/arimovies1/posts/marvel-cinematic-universe-23-movie-series-full-hd-1080p-all-movie01-iron-man-htt/597702147303706/","tags":[]},
-  {"title":"MCU - Phase 1 [1080p] - Desishare.in – Telegraph","url":"https://telegra.ph/MCU---Phase-1-1080p---Desisharein-02-15","tags":[]},
-  {"title":"Marvel Cinematic Universe – The Infinity Saga [Phase I-II-III] (2008-2019) 1080p 10bit Bluray x265 HEVC [Org DD 5.1 Hindi + DD 5.1 English] [107 GB] | G-Drive | – DesiShare.Space","url":"https://desishare.space/marvel-cinematic-universe-the-infinity-saga-phase-i-ii-iii-2008-2019-1080p-10bit-bluray-x265-hevc-org-dd-5-1-hindi-dd-5-1-english-107-gb-g-drive/","tags":[]},
-  {"title":"MCU - Phase 2 [1080p] - Desishare.in – Telegraph","url":"https://telegra.ph/MCU---Phase-2-1080p---Desisharein-02-15","tags":[]},
-  {"title":"MCU - Phase 3 [1080p] - Desishare.in – Telegraph","url":"https://telegra.ph/MCU---Phase-3-1080p---Desisharein-02-15","tags":[]},
-  {"title":"Archer C20","url":"http://192.168.1.1/","tags":[]},
-  {"title":"Leading Cryptocurrency Platform for Mining and Trading","url":"https://www.nicehash.com/my/dashboard","tags":[]},
-  {"title":"adb - Fake the Android USB Debug settings - Android Enthusiasts Stack Exchange","url":"https://android.stackexchange.com/questions/192019/fake-the-android-usb-debug-settings#:~:text=Just%20enable%20the%20hide%20feature,the%20%22Android%20USB%20Debugging%22.","tags":[]},
-  {"title":"Call of Duty Black Ops II (Google Drive)","url":"https://astralth.blogspot.com/2017/11/call-of-duty-black-ops-ii-google-drive.html","tags":[]},
-  {"title":"batman","url":"https://filecrypt.co/Container/64F347CEF1.html","tags":[]},
-  {"title":"(1) How to create a mod on Hill Climb Racing //Only for Education // Tutorial No 6 - YouTube","url":"https://www.youtube.com/watch?v=R1v6OOB_dh0","tags":[]},
-  {"title":"Solve C PROGRAMMING TEST-1 Questions | Contests | HackerRank","url":"https://www.hackerrank.com/contests/c-programming-test-1/challenges","tags":[]},
-  {"title":"Social Cash Club Network - Earn Money Online India","url":"https://socialcashclub.in/login.php","tags":[]},
-  {"title":"CG PET 2021: Registration (Postponed), Exam Date, Eligibility, Pattern, Syllabus, and Result","url":"https://collegedunia.com/exams/chattisgarh-pre-engineering-test","tags":[]},
-  {"title":"https://jeemain.nta.nic.in/webinfo2021/Page/Page?PageId=1&LangId=P","url":"https://jeemain.nta.nic.in/webinfo2021/Page/Page?PageId=1&LangId=P","tags":[]},
-  {"title":"JEE Main 2021 Question Papers (Out): Download PDF for Phase 1, 2, 3 & 4 (Shift 1 & 2) | CollegeDekho","url":"https://www.collegedekho.com/news/jee-main-2021-question-papers-21404/","tags":[]},
-  {"title":"Download Death Note (2006) Complete Season Dual Audio (Eng-Jap) BD ESubs || 480p [90MB] || 720p [120MB] || 1080p [250MB] - AnimeFlix.in - Best Site to download Animes, 1080p Anime, 720p Anime, Download Anime, Download latest animes, Download netflix animes, animes download 2021, Dual Audio animes download, English Dubbed animes download, Best anime download website, Best website to download animes, AnimeFlix, Netflix Animes, Animeflix,in, Moviesflix, MoviesVerse, Watch Anime Online, Online Anime Download","url":"https://animeflix.org.in/download-death-note-2006-complete-season-dual-audio-eng-jap-esubs-480p-720p/","tags":[]},
-  {"title":"Episodes : by AnimeFlix.in","url":"https://episodes.animeflix.org.in/archives/3285","tags":[]},
-  {"title":"Data entry operater","url":"https://www.mponline.gov.in/Portal/Services/Ayush_Recruit/AY006/FRMApplication.aspx?NotificationId=QVkwMDZG","tags":[]},
-  {"title":"5 Centimeters per Second (2007) - 5 Centimeters per Second (2007) - User Reviews - IMDb","url":"https://www.imdb.com/title/tt0983213/reviews","tags":[]},
-  {"title":"Download file | iLovePDF","url":"https://www.ilovepdf.com/download/rhjw7h5zgvs32g766wq3fbgsqd9hyfb89lgdyr2ppmr5krm5ljqxbvfp2gt8sAczwd1qds0pmb1s8yyyknrn7rxwgxb3rrwqkmy8vt7d7yypz2kywd7z3m7bzz5gm8j2jrhkj65g28tshnp0blxv9chcm4lxb845dpzjx398Ak3ltm6n8d9q/64","tags":[]},
-  {"title":"Download MATLAB, Simulink, Stateflow and Other MathWorks Products","url":"https://in.mathworks.com/downloads/web_downloads/10770918","tags":[]},
-  {"title":"Index of /gnu/gdb","url":"https://ftp.gnu.org/gnu/gdb/","tags":[]},
-  {"title":"Free Typing Test - Check Your Typing Speed in 60 Seconds | LiveChat Tools","url":"https://www.livechat.com/typing-speed-test/#/","tags":[]},
-  {"title":"Find root of a number using Newton's method - GeeksforGeeks","url":"https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/#:~:text=Let%20N%20be%20any%20number,correct%20square%20root%20of%20N.","tags":[]},
-  {"title":"SpeechRecognition · PyPI","url":"https://pypi.org/project/SpeechRecognition/","tags":[]},
-  {"title":"futures","url":"https://www.binance.com/en/futures/BTCUSDT","tags":[]},
-  {"title":"Encrypt & Decrypt Text Online - Online Toolz","url":"https://www.online-toolz.com/tools/text-encryption-decryption.php","tags":[]},
-  {"title":"telegram.ext package - python-telegram-bot v20.1","url":"https://docs.python-telegram-bot.org/en/stable/telegram.ext.html","tags":[]},
-  {"title":"Host, run, and code Python in the cloud: PythonAnywhere","url":"https://www.pythonanywhere.com/","tags":[]},
-  {"title":"Postman API Platform","url":"https://www.postman.com/","tags":[]},
-  {"title":"ChatGPT for Google","url":"https://webapp.chatgpt4google.com/first-install?extId=jgjaeacdkonaoafenlfkkkmbaopkbilf","tags":[]},
-  {"title":"Photopea | Online Photo Editor","url":"https://www.photopea.com/","tags":[]},
-  {"title":"imagination_world1212 - Watch Anonymously and Download Instagram Stories Online","url":"https://insta-stories-viewer.com/imagination_world1212/","tags":[]},
-  {"title":"Red Car on A Dirt Road Free Stock Video Footage Download HD Clips","url":"https://mazwai.com/video/red-car-on-a-dirt-road/455203","tags":[]},
-  {"title":"vmedulife Learner Dashboard","url":"https://portal.vmedulife.com/student/Summary.php","tags":[]},
-  {"title":"Dad Jokes API Documentation (KegenGuyll) | RapidAPI","url":"https://rapidapi.com/KegenGuyll/api/dad-jokes/","tags":[]},
-  {"title":"24 Free Public APIs for Developers & Free Alternatives List - August, 2023 | RapidAPI","url":"https://rapidapi.com/collection/list-of-free-apis","tags":[]},
-  {"title":"CSV files for download | Stats NZ","url":"https://www.stats.govt.nz/large-datasets/csv-files-for-download/","tags":[]},
-  {"title":"Bugatti Chiron Super Sport Golden Era 4K Wallpaper - HD Car Wallpapers #24783","url":"https://www.hdcarwallpapers.com/bugatti_chiron_super_sport_golden_era_4k-wallpapers","tags":[]},
-  {"title":"Sider: ChatGPT Sidebar + GPT-4o, Claude 3, Gemini 1.5 & AI Tools","url":"https://sider.ai/","tags":[]},
-  {"title":"Chat Blackbox: AI Code Generation, Code Chat, Code Search - Blackbox","url":"https://www.blackbox.ai/","tags":[]},
-  {"title":"Python Software Foundation Sponsors | Python Software Foundation","url":"https://www.python.org/psf/sponsors/?ea-publisher=psf#nvidia","tags":[]},
-  {"title":"Convert Youtube Videos to MP3 for Free - Y2Mate","url":"https://en.y2mate.is/v41/youtube-to-mp3.html","tags":[]},
-  {"title":"Login | AssignmentGPT AI","url":"https://app.assignmentgpt.ai/?source=g&device=c&campaignid=21047463791&keyword=homework%20solver&gad_source=1&gclid=CjwKCAjw6c63BhAiEiwAF0EH1LkPoFFxliJiskcOrIkdhqOxA8pW_qv6MPbSIs5ckt7yl76G4nDrhhoC0toQAvD_BwE","tags":[]},
-  {"title":"(153) YouTube","url":"https://www.youtube.com/","tags":[]},
-  {"title":"CUDA Toolkit Archive | NVIDIA Developer","url":"https://developer.nvidia.com/cuda-toolkit-archive","tags":[]},
-  {"title":"iPortfolio - Free Responsive Bootstrap 5 Portfolio Website Template - ThemeWagon","url":"https://themewagon.com/themes/iportfolio/","tags":[]},
-  {"title":"Introducing BUGATTI Tourbillon Pour l’éternité","url":"https://www.bugatti.com/the-bugatti-models/tourbillon/","tags":[]},
-  {"title":"Bugatti Phone Wallpapers - WSupercars","url":"https://www.wsupercars.com/phonewallpapers/?category_name=bugatti","tags":[]},
-  {"title":"Uplers | Opportunity","url":"https://ats.uplers.com/talent/all-opportunities/HR1173467423539286?src=Auto-Linkedin&source=QmpFdXRLZ1NzcEVxVnlscUx6YVVoUT09","tags":[]},
-  {"title":"cuvette.tech/app/dashboard/other-jobs/6798698cbb1c149a2de4380b","url":"https://cuvette.tech/app/dashboard/other-jobs/6798698cbb1c149a2de4380b","tags":[]},
-  {"title":"Build for everyone — Google Careers","url":"https://www.google.com/about/careers/applications/?utm_campaign=profilepage&utm_medium=profilepage&utm_source=linkedin&src=Online/LinkedIn/linkedin_page","tags":[]},
-  {"title":"deepseek-ai/DeepSeek-V2 · Hugging Face","url":"https://huggingface.co/deepseek-ai/DeepSeek-V2","tags":[]},
-  {"title":"Ollama","url":"https://ollama.com/","tags":[]},
-  {"title":"AICTE Internship Enterprise Portal - Learning by doing. 1 Crore Internships by 2025","url":"https://internship.aicte-india.org/module_student/index_dashboard.php","tags":[]},
-  {"title":"ArtStation - Bugatti Chiron - Automotive rendering in Unreal Engine","url":"https://www.artstation.com/artwork/b5Q31d","tags":[]},
-  {"title":"Edit photo for resume","url":"https://chatgpt.com/c/69295b8c-cd74-8323-9b3d-9e79b1c2694e","tags":[]},
-  {"title":"moltbook - the front page of the agent internet","url":"https://www.moltbook.com/","tags":[]},
-  {"title":"Passport Seva","url":"https://services1.passportindia.gov.in/psp/ApplyPassport","tags":[]},
-  {"title":"movies downloads","url":"https://mkvcinema-official.lol/","tags":[]},
-  {"title":"MoviesVerse | MovieVerse – Download Latest HD Hollywood, Anime, Dual Audio Movies And Series, 2160p, 1080p, 720p and 480p.","url":"https://hdmovieverse.xyz/","tags":[]},
-  {"title":"KMMOVIES - The New Home of Khatrimaza | Free 4K Movies","url":"https://kmmovies.lol/","tags":[]}
+    {
+        "title": "Chatgpt",
+        "url": "https://chat.openai.com/chat"
+    },
+    {
+        "title": "youtube",
+        "url": "http://youtube.com/"
+    },
+    {
+        "title": "Blind 75 Leetcode problems : Detailed Video Solutions",
+        "url": "https://takeuforward.org/interviews/blind-75-leetcode-problems-detailed-video-solutions"
+    },
+    {
+        "title": "Find your phone",
+        "url": "https://myaccount.google.com/find-your-phone?pli=1"
+    },
+    {
+        "title": "Two Sum - LeetCode",
+        "url": "https://leetcode.com/problems/two-sum/submissions/"
+    },
+    {
+        "title": "Prepinsta",
+        "url": "https://prepinsta.com/microsoft/"
+    },
+    {
+        "title": "IndiaBix Aptitude",
+        "url": "https://www.indiabix.com/"
+    },
+    {
+        "title": "W3Schools Dsa",
+        "url": "https://www.w3schools.com/dsa/index.php"
+    },
+    {
+        "title": "Github",
+        "url": "https://github.com/Abhii0007"
+    },
+    {
+        "title": "Inbox (48) - abhi639679@gmail.com - Gmail",
+        "url": "https://mail.google.com/mail/u/0/#inbox"
+    },
+    {
+        "title": "MDN Web Help",
+        "url": "https://developer.mozilla.org/en-US/"
+    },
+    {
+        "title": "Compress video - free tool to compress a video online",
+        "url": "https://www.compress2go.com/compress-video"
+    },
+    {
+        "title": "Skill INDIA Internships",
+        "url": "https://www.skillindiadigital.gov.in/internship"
+    },
+    {
+        "title": "Kaggle AI Models",
+        "url": "https://www.kaggle.com/models"
+    },
+    {
+        "title": "CDN JS",
+        "url": "https://cdnjs.com/"
+    },
+    {
+        "title": "Advance Concepts of Python for Python Developer - Javatpoint",
+        "url": "https://www.javatpoint.com/advance-concepts-of-python-for-python-developer"
+    },
+    {
+        "title": "W3Schools Online Web Tutorials",
+        "url": "https://www.w3schools.com/"
+    },
+    {
+        "title": "NPTEL COURSE SWYAM",
+        "url": "https://swayam.gov.in/mycourses"
+    },
+    {
+        "title": "Abhiiverma007",
+        "url": "https://abhi639679.wixsite.com/abhishek"
+    },
+    {
+        "title": "What is Qt Design Studio? - What is Qt Design Studio?",
+        "url": "https://courses.qt.io/what-is-qt-design-studio-/index.html#/lessons/j0koF6BKJ_0CZSqWPIsVAfjcHOM9WvH-"
+    },
+    {
+        "title": "How To Attach An Image In Turtle Pythonhttps://pythonguides.com › attach-image-to-turtle-python",
+        "url": "https://pythonguides.com/attach-image-to-turtle-python/"
+    },
+    {
+        "title": "PDF DRIVE",
+        "url": "https://www.pdfdrive.com/computer-science-books.html"
+    },
+    {
+        "title": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAABzUlEQVRYhe3Wy27TYBAF4A+2ZAkRECpuFeVdemFL6RMAZYHaF2FHEQ9QhRYJBDwILCo2sKDsoV2FEMzin8iRaxzbKeqiPZKl5J8zM8dje2Y4w2nHuYb8OdzDIm7Ef/iGr3iPN9g/LoFj9LCFIbIp1wh9XD+u5Cs4iOADbOM+FnAhrgWshm0Q3AMsz5r8iXRHmXRXN2v43MKOvBrrbZOvRIDfeNrCfyN8R1pUoicve5vkkyIy/MSVJo4v5WWfFbsRa6uuw5xUuoHyZ/4Q3ZLzbtiKuB2xhlJlp2JdUrxdYnsUtk8FEd04y4JTRL/CdgQfgrxaYptMNBZRdlbEWtjf1RHwOch3/mEvJpyWnNQnMuzVEXAY5E4F5xI+yrvfHi5X8DvBOywazpeQszoqS1A1V8Z5/tQJdOKP4MRfwsf+32dY1ieO4JrUNAbSYCmiaSOa17ARwQtJ8U5dhwq8jljPmzhdlQ+jjRmSb0aMH6o/01Isy8dxGxGb8nG82MIfaS6MF5JdabBMw7y87CPppZ4JS9I8H69kfTzAXanDdeL3Gl7hl7zsre+8iIt4pt5SOpRmf60FpOla3pNWtSVpV5hcy79Ia/lbfG8Y9wynGH8BHnKpr/YwVJ8AAAAASUVORK5CYII="
+    },
+    {
+        "title": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAABzUlEQVRYhe3Wy27TYBAF4A+2ZAkRECpuFeVdemFL6RMAZYHaF2FHEQ9QhRYJBDwILCo2sKDsoV2FEMzin8iRaxzbKeqiPZKl5J8zM8dje2Y4w2nHuYb8OdzDIm7Ef/iGr3iPN9g/LoFj9LCFIbIp1wh9XD+u5Cs4iOADbOM+FnAhrgWshm0Q3AMsz5r8iXRHmXRXN2v43MKOvBrrbZOvRIDfeNrCfyN8R1pUoicve5vkkyIy/MSVJo4v5WWfFbsRa6uuw5xUuoHyZ/4Q3ZLzbtiKuB2xhlJlp2JdUrxdYnsUtk8FEd04y4JTRL/CdgQfgrxaYptMNBZRdlbEWtjf1RHwOch3/mEvJpyWnNQnMuzVEXAY5E4F5xI+yrvfHi5X8DvBOywazpeQszoqS1A1V8Z5/tQJdOKP4MRfwsf+32dY1ieO4JrUNAbSYCmiaSOa17ARwQtJ8U5dhwq8jljPmzhdlQ+jjRmSb0aMH6o/01Isy8dxGxGb8nG82MIfaS6MF5JdabBMw7y87CPppZ4JS9I8H69kfTzAXanDdeL3Gl7hl7zsre+8iIt4pt5SOpRmf60FpOla3pNWtSVpV5hcy79Ia/lbfG8Y9wynGH8BHnKpr/YwVJ8AAAAASUVORK5CYII="
+    },
+    {
+        "title": "Metaverse 3D Avatar Creator | Ready Player Me",
+        "url": "https://readyplayer.me/"
+    },
+    {
+        "title": "Popular models | 3D CAD Model Collection | GrabCAD Community Library",
+        "url": "https://grabcad.com/library"
+    },
+    {
+        "title": "Panzoid|Insane Intro Template|TurizoFX - Panzoid",
+        "url": "https://panzoid.com/creations/178455"
+    },
+    {
+        "title": "(3) Smartways Of tech - 3D model by Smartways Tech 3D (@abhishekverma) - Sketchfab",
+        "url": "https://sketchfab.com/models/3a3fe635be8f415fbd654ca6c7a32136"
+    },
+    {
+        "title": "Personal, Family or Travel Slideshow Templates to Make Engaging Videos | Renderforest",
+        "url": "https://www.renderforest.com/Slideshow/personal-slideshow"
+    },
+    {
+        "title": "group D 2018 admit card ",
+        "url": "https://dc4-g22.digialm.com/EForms/configuredHtml/2022/57738/login.html"
+    },
+    {
+        "title": "Extract the tags from a Youtube Video",
+        "url": "https://online-free-tools.com/en/youtube_video_tags_extract_url"
+    },
+    {
+        "title": "httpss://0.0.0.3",
+        "url": "http://sachin.somee.com/superuser3@Lid=vision@pass=infinity/"
+    },
+    {
+        "title": "#73 [Colorful/Plastic/Sync] Intro Template - Blender [2.79] - Velosofy",
+        "url": "https://www.velosofy.com/template/73-colorful-plastic-sync-intro-template-blender-2-79-8kddxth-l0a"
+    },
+    {
+        "title": "Powered by Alpha Broadway System (http://alphabroadway.com)",
+        "url": "http://ftp.alphamediazone.com/"
+    },
+    {
+        "title": "Doodle 4 Google",
+        "url": "https://doodles.google.co.in/d4g/?utm_source=google&utm_medium=hpp&utm_campaign=sept-28"
+    },
+    {
+        "title": "Light Intros Template Library | Videobolt.net Online Video Marketplace",
+        "url": "https://videobolt.net/home/cat-intros/tag-light"
+    },
+    {
+        "title": "Full Version Software & Games Download Direct Link PCDownloadZ",
+        "url": "https://www.pcdownloadz.xyz/"
+    },
+    {
+        "title": "Sachin verma",
+        "url": "http://sachin.somee.com/"
+    },
+    {
+        "title": "Smartways of Tech Youtube channel",
+        "url": "http://smartways.somee.com/"
+    },
+    {
+        "title": "WebGL Samples",
+        "url": "http://webglsamples.org/"
+    },
+    {
+        "title": "22 Experimental WebGL Demo Examples",
+        "url": "https://www.awwwards.com/22-experimental-webgl-demo-examples.html"
+    },
+    {
+        "title": "File manager",
+        "url": "http://somee.com/DOKA/DOU/DOMP/DOWebSites/DOSiteFileManager.aspx?k1k3k5=CJU0mQFx4Qn%2fspA0EufRLr2i927sqcEEIe6HATS5McE%3d"
+    },
+    {
+        "title": "appleseed - A modern, open source production renderer",
+        "url": "https://appleseedhq.net/"
+    },
+    {
+        "title": "Realtime PBR in Blender | CG Masters",
+        "url": "https://cgmasters.net/free-tutorials/realtime-pbr-in-blender/"
+    },
+    {
+        "title": "FoxRenderfarm",
+        "url": "https://task.foxrenderfarm.com/render"
+    },
+    {
+        "title": "https://task.foxrenderfarm.com/account?register!in.action&email=",
+        "url": "https://task.foxrenderfarm.com/account?register!in.action&email="
+    },
+    {
+        "title": "Demo Files — blender.org",
+        "url": "https://www.blender.org/download/demo-files/"
+    },
+    {
+        "title": "Sheep it Render Farm",
+        "url": "https://www.sheepit-renderfarm.com/account.php?mode=login&redirect=%2Fjobs.php"
+    },
+    {
+        "title": "3D Models for Professionals :: TurboSquid",
+        "url": "https://www.turbosquid.com/"
+    },
+    {
+        "title": "Free 3D Models for Download | TurboSquid",
+        "url": "https://www.turbosquid.com/Search/Index.cfm?keyword=free&media_typeid=2"
+    },
+    {
+        "title": "Davide Tirindelli on Gumroad",
+        "url": "https://gumroad.com/davzeppelin#"
+    },
+    {
+        "title": "53 Best Free 4K Tech Wallpapers - WallpaperAccess",
+        "url": "https://wallpaperaccess.com/4k-tech"
+    },
+    {
+        "title": "DriverToolkit 8.5.1 License Keys and Emails - Free Activation",
+        "url": "https://samdownloads.net/drivertoolkit-8-license-key-email/"
+    },
+    {
+        "title": "Blue Tech Wallpaper on WallpaperGet.com",
+        "url": "http://wallpaperget.com/blue-tech-wallpaper"
+    },
+    {
+        "title": "WhatsApp",
+        "url": "https://web.whatsapp.com/"
+    },
+    {
+        "title": "Moto Racing 2 Download Free - GameTop",
+        "url": "https://www.gametop.com/download-free-games/moto-racing-2/download.html"
+    },
+    {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/channel/UCBiRHF0Y8d6LY_CZTw871Gw"
+    },
+    {
+        "title": "Bugatti Vision Gran Turismo 2015 3D Model.rar - Syncs all your files Online",
+        "url": "https://www.syncs.online/1iJu/Bugatti_Vision_Gran_Turismo_2015_3D_Model.rar"
+    },
+    {
+        "title": "CSR CSR8510 A10 bluetooth dongle 4.0 original CD drivers setup.zip - Google Drive",
+        "url": "https://drive.google.com/file/d/1cThcmEjmPOxPStDdrWx5bHiyy_gv2xXF/edit"
+    },
+    {
+        "title": "MEGA",
+        "url": "https://mega.nz/#F!A1AGyTLb!iJaWmxngvENpmBDEzc6jFw"
+    },
+    {
+        "title": "CSR8510A10 Driver, here available! - Page 2 - Windows 7 Help Forums",
+        "url": "https://www.sevenforums.com/drivers/338736-csr8510a10-driver-here-available-2.html?s=f989fd43c8900bc6acb7fec366ac69c2"
+    },
+    {
+        "title": "CSR8510A10 Driver, here available! - Page 2 - Windows 7 Help Forums",
+        "url": "https://www.sevenforums.com/drivers/338736-csr8510a10-driver-here-available-2.html"
+    },
+    {
+        "title": "MEGA 5%",
+        "url": "https://mega.nz/#!GMBGSaJD!r3slfconyYsSq2MpxcvRn_nq0tO3-m0SX9pJcPchAiQ"
+    },
+    {
+        "title": "Bluetooth Dongle driver for RT-BT4 / RT-BT4B/RT-BT4D - rocketeck",
+        "url": "http://www.rocketek.hk/sdm_downloads/bluetooth-dongle-driver-for-rt-bt4-rt-bt4b/"
+    },
+    {
+        "title": "CSR8510 CSR 4.0 USB Bluetooth 4.0 Adapter Driver download for Win XP/Vista/7/8-Computer Cables & Adapters-MiniHere",
+        "url": "http://www.minihere.com/csr8510-csr-4-0-usb-bluetooth-4-0-adapter-driver-download-for-win-xpvista78.html"
+    },
+    {
+        "title": "Fix Bluetooth Drivers Problems | Bluetooth Driver Download | Drivers.com",
+        "url": "https://www.drivers.com/fix_bluetooth_drivers/"
+    },
+    {
+        "title": "Play 3D games in SBS on the virtual screen using BigScreen - GeForce Forums",
+        "url": "https://forums.geforce.com/default/topic/961597/oculus/play-3d-games-in-sbs-on-the-virtual-screen-using-bigscreen/"
+    },
+    {
+        "title": "(14) SA DirectX 2.0 New Gameplay - GTA San Andreas 2018 - YouTube",
+        "url": "https://www.youtube.com/watch?v=0-3o5l0Letw"
+    },
+    {
+        "title": "GTA San Andreas Redux Graphics San Andreas Mod - GTAinside.com",
+        "url": "https://www.gtainside.com/en/sanandreas/mods-124/101121-redux-graphics-san-andreas/"
+    },
+    {
+        "title": "4k Wallpapers [Free Download!] | 100+ best free wallpaper, cloud, light, and rock photos on Unsplash",
+        "url": "https://unsplash.com/wallpaper/1339090/4k-wallpapers"
+    },
+    {
+        "title": "Wide Angle Photo Of Road · Free Stock Photo",
+        "url": "https://www.pexels.com/photo/wide-angle-photo-of-road-1563355/"
+    },
+    {
+        "title": "Free Wallpaper · Pexels · Free Stock Photos",
+        "url": "https://www.pexels.com/search/free%20wallpaper/"
+    },
+    {
+        "title": "Search Blends | Blend Swap",
+        "url": "https://www.blendswap.com/blends/search?keywords=grass&is_fan_art=1&blend_license=&render_engine=&sort=downloads&direction=desc"
+    },
+    {
+        "title": "Gmail",
+        "url": "https://accounts.google.com/b/0/AddMailService"
+    },
+    {
+        "title": "YouTube",
+        "url": "https://youtube.com/"
+    },
+    {
+        "title": "Maps",
+        "url": "https://maps.google.com/"
+    },
+    {
+        "title": "Google Sky",
+        "url": "https://www.google.com/sky/"
+    },
+    {
+        "title": "Dashboard",
+        "url": "https://live.browserstack.com/dashboard#os=android&os_version=7.1&device=Samsung+Galaxy+Note+8&device_browser=chrome&zoom_to_fit=true&full_screen=true&url=www.google.com&speed=1"
+    },
+    {
+        "title": "Google Drive - Virus scan warning",
+        "url": "https://drive.google.com/uc?id=1VHMU_cCg2CmFaUjfBDEqPKcZuj2vYt_V&export=download"
+    },
+    {
+        "title": "Galaxy J Series Firmware – Unlock Network / FRP Lock Samsung LG Online Service",
+        "url": "https://simunlockremote.com/galaxy-j-series-firmware/"
+    },
+    {
+        "title": "Mercury 3D Model | NASA Solar System Exploration",
+        "url": "https://solarsystem.nasa.gov/resources/2369/mercury-3d-model/"
+    },
+    {
+        "title": "Translate",
+        "url": "https://translate.google.com/"
+    },
+    {
+        "title": "News",
+        "url": "https://news.google.com/"
+    },
+    {
+        "title": "",
+        "url": "http://www.4kdownload.com/thanks-for-installing?source=videodownloader"
+    },
+    {
+        "title": "r3",
+        "url": "https://filecrypt.co/Container/CA36037E47.html"
+    },
+    {
+        "title": "Word Art - Edit - WordArt.com",
+        "url": "https://wordart.com/create"
+    },
+    {
+        "title": "Filecrypt",
+        "url": "https://filecrypt.co/Container/E68351F207.html"
+    },
+    {
+        "title": "forza",
+        "url": "https://filecrypt.co/Container/C631CBCF0A.html"
+    },
+    {
+        "title": "Download Cool NVIDIA Demos | NVIDIA Cool Stuff",
+        "url": "https://www.nvidia.in/coolstuff/demos"
+    },
+    {
+        "title": "just cause 4",
+        "url": "https://filecrypt.co/Container/36FF4BD19F.html"
+    },
+    {
+        "title": "ultron",
+        "url": "https://drive.google.com/file/d/108N2dSp8jTNaaboJDFmYHasRMH3G-XdJ/view"
+    },
+    {
+        "title": "flight simulator",
+        "url": "https://gamepcfull.com/microsoft-flight-simulator/"
+    },
+    {
+        "title": "Crack wifi handshake using hashcat in windows. - Warmodroid",
+        "url": "https://www.warmodroid.xyz/hacking/crack-wifi-handshake-using-hashcat-in-windows/"
+    },
+    {
+        "title": "gdtot.com",
+        "url": "https://gdtot.com/apM1YnQ/doctor-strange-2016-2160p-uhd-hdr-bluray-hindi-eng-x265-10bit-ac5-1-katmoviehd-net-mkv"
+    },
+    {
+        "title": "GDToT | Copy of Iron Man 3 (2013) 2160p UHD HDR REMASTERED 10bit Bluray x265 HEVC [Org DDP 5.1 Hindi + Dolby TrueHD Atmos 7.1 English] MSubs ~ IAMABLE [iNTERNAL].mkv",
+        "url": "https://new.gdtot.com/file/27715901595"
+    },
+    {
+        "title": "MasterZoFtech – MasterZoFtech.CoM",
+        "url": "https://masterzoftech.com/527/"
+    },
+    {
+        "title": "nfs hest",
+        "url": "https://drive.google.com/drive/folders/1gsicMNAawcHXxjF3O8AYYhlkpNaujjAd"
+    },
+    {
+        "title": "nfs hest site",
+        "url": "https://bajarjuegospcgratis.com/descargar-need-for-speed-heat-pc-full-espanol-gratis-mega-google-drive/"
+    },
+    {
+        "title": "Google Drive - Virus scan warning",
+        "url": "https://drive.google.com/u/0/uc?export=download&confirm=is_6&id=1e-bZ3jPas3Q6TA6MncdyGZaVs_3X1N8E"
+    },
+    {
+        "title": "Ride 4 [CODEX] (Update v1.0.0.10 incl DLC) » Game PC Full - Free Download PC Games - Crack - Direct Link",
+        "url": "https://gamepcfull.com/ride-4/"
+    },
+    {
+        "title": "Ride 4",
+        "url": "https://filecrypt.co/Container/AEBDC9AC26.html"
+    },
+    {
+        "title": "Samsung galaxy J6 SM-J600G Combination file U4 (Binary 4) J600GDXU4ASG1 - Download Firmware",
+        "url": "https://androidcustomfirmware.com/samsung-galaxy-j6-sm-j600g-combination-file-u4-binary-4-j600gdxu4asg1/"
+    },
+    {
+        "title": "u4 9.0 ins",
+        "url": "https://drive.google.com/file/d/1JjWoVdj9yEnbrB0oyKFTyFbBfk7zr4B5/view"
+    },
+    {
+        "title": "tdp",
+        "url": "https://www.gpuzoo.com/GPU-NVIDIA/GeForce_210_GDDR3.html#:~:text=The%20card%20has%201.402%20GHz,bandwidth%20is%2012.8%20GB%2Fs."
+    },
+    {
+        "title": "Players using Emulators like Nox, be safe(er) by masking your device descriptors. Guide inside : pokemongodev",
+        "url": "https://www.reddit.com/r/pokemongodev/comments/4y3u15/players_using_emulators_like_nox_be_safeer_by/"
+    },
+    {
+        "title": "[Solved] How to Bypass \"Emulator detected\" Warning while playing PUBG on PC?",
+        "url": "https://techiestechguide.com/bypass-emulator-detected-pubg/"
+    },
+    {
+        "title": "(1) ARI Movies – Posts | Facebook",
+        "url": "https://www.facebook.com/arimovies1/posts/marvel-cinematic-universe-23-movie-series-full-hd-1080p-all-movie01-iron-man-htt/597702147303706/"
+    },
+    {
+        "title": "MCU - Phase 1 [1080p] - Desishare.in – Telegraph",
+        "url": "https://telegra.ph/MCU---Phase-1-1080p---Desisharein-02-15"
+    },
+    {
+        "title": "Marvel Cinematic Universe – The Infinity Saga [Phase I-II-III] (2008-2019) 1080p 10bit Bluray x265 HEVC [Org DD 5.1 Hindi + DD 5.1 English] [107 GB] | G-Drive | – DesiShare.Space",
+        "url": "https://desishare.space/marvel-cinematic-universe-the-infinity-saga-phase-i-ii-iii-2008-2019-1080p-10bit-bluray-x265-hevc-org-dd-5-1-hindi-dd-5-1-english-107-gb-g-drive/"
+    },
+    {
+        "title": "MCU - Phase 2 [1080p] - Desishare.in – Telegraph",
+        "url": "https://telegra.ph/MCU---Phase-2-1080p---Desisharein-02-15"
+    },
+    {
+        "title": "MCU - Phase 3 [1080p] - Desishare.in – Telegraph",
+        "url": "https://telegra.ph/MCU---Phase-3-1080p---Desisharein-02-15"
+    },
+    {
+        "title": "Archer C20",
+        "url": "http://192.168.1.1/"
+    },
+    {
+        "title": "Leading Cryptocurrency Platform for Mining and Trading",
+        "url": "https://www.nicehash.com/my/dashboard"
+    },
+    {
+        "title": "adb - Fake the Android USB Debug settings - Android Enthusiasts Stack Exchange",
+        "url": "https://android.stackexchange.com/questions/192019/fake-the-android-usb-debug-settings#:~:text=Just%20enable%20the%20hide%20feature,the%20%22Android%20USB%20Debugging%22."
+    },
+    {
+        "title": "Call of Duty Black Ops II (Google Drive)",
+        "url": "https://astralth.blogspot.com/2017/11/call-of-duty-black-ops-ii-google-drive.html"
+    },
+    {
+        "title": "batman",
+        "url": "https://filecrypt.co/Container/64F347CEF1.html"
+    },
+    {
+        "title": "(1) How to create a mod on Hill Climb Racing //Only for Education // Tutorial No 6 - YouTube",
+        "url": "https://www.youtube.com/watch?v=R1v6OOB_dh0"
+    },
+    {
+        "title": "Solve C PROGRAMMING TEST-1 Questions | Contests | HackerRank",
+        "url": "https://www.hackerrank.com/contests/c-programming-test-1/challenges"
+    },
+    {
+        "title": "Social Cash Club Network - Earn Money Online India",
+        "url": "https://socialcashclub.in/login.php"
+    },
+    {
+        "title": "CG PET 2021: Registration (Postponed), Exam Date, Eligibility, Pattern, Syllabus, and Result",
+        "url": "https://collegedunia.com/exams/chattisgarh-pre-engineering-test"
+    },
+    {
+        "title": "https://jeemain.nta.nic.in/webinfo2021/Page/Page?PageId=1&LangId=P",
+        "url": "https://jeemain.nta.nic.in/webinfo2021/Page/Page?PageId=1&LangId=P"
+    },
+    {
+        "title": "JEE Main 2021 Question Papers (Out): Download PDF for Phase 1, 2, 3 & 4 (Shift 1 & 2) | CollegeDekho",
+        "url": "https://www.collegedekho.com/news/jee-main-2021-question-papers-21404/"
+    },
+    {
+        "title": "Download Death Note (2006) Complete Season Dual Audio (Eng-Jap) BD ESubs || 480p [90MB] || 720p [120MB] || 1080p [250MB] - AnimeFlix.in - Best Site to download Animes, 1080p Anime, 720p Anime, Download Anime, Download latest animes, Download netflix animes, animes download 2021, Dual Audio animes download, English Dubbed animes download, Best anime download website, Best website to download animes, AnimeFlix, Netflix Animes, Animeflix,in, Moviesflix, MoviesVerse, Watch Anime Online, Online Anime Download",
+        "url": "https://animeflix.org.in/download-death-note-2006-complete-season-dual-audio-eng-jap-esubs-480p-720p/"
+    },
+    {
+        "title": "Episodes : by AnimeFlix.in",
+        "url": "https://episodes.animeflix.org.in/archives/3285"
+    },
+    {
+        "title": "Data entry operater",
+        "url": "https://www.mponline.gov.in/Portal/Services/Ayush_Recruit/AY006/FRMApplication.aspx?NotificationId=QVkwMDZG"
+    },
+    {
+        "title": "5 Centimeters per Second (2007) - 5 Centimeters per Second (2007) - User Reviews - IMDb",
+        "url": "https://www.imdb.com/title/tt0983213/reviews"
+    },
+    {
+        "title": "Download file | iLovePDF",
+        "url": "https://www.ilovepdf.com/download/rhjw7h5zgvs32g766wq3fbgsqd9hyfb89lgdyr2ppmr5krm5ljqxbvfp2gt8sAczwd1qds0pmb1s8yyyknrn7rxwgxb3rrwqkmy8vt7d7yypz2kywd7z3m7bzz5gm8j2jrhkj65g28tshnp0blxv9chcm4lxb845dpzjx398Ak3ltm6n8d9q/64"
+    },
+    {
+        "title": "Download MATLAB, Simulink, Stateflow and Other MathWorks Products",
+        "url": "https://in.mathworks.com/downloads/web_downloads/10770918"
+    },
+    {
+        "title": "Index of /gnu/gdb",
+        "url": "https://ftp.gnu.org/gnu/gdb/"
+    },
+    {
+        "title": "Free Typing Test - Check Your Typing Speed in 60 Seconds | LiveChat Tools",
+        "url": "https://www.livechat.com/typing-speed-test/#/"
+    },
+    {
+        "title": "Find root of a number using Newton's method - GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/#:~:text=Let%20N%20be%20any%20number,correct%20square%20root%20of%20N."
+    },
+    {
+        "title": "SpeechRecognition · PyPI",
+        "url": "https://pypi.org/project/SpeechRecognition/"
+    },
+    {
+        "title": "futures",
+        "url": "https://www.binance.com/en/futures/BTCUSDT"
+    },
+    {
+        "title": "Encrypt & Decrypt Text Online - Online Toolz",
+        "url": "https://www.online-toolz.com/tools/text-encryption-decryption.php"
+    },
+    {
+        "title": "telegram.ext package - python-telegram-bot v20.1",
+        "url": "https://docs.python-telegram-bot.org/en/stable/telegram.ext.html"
+    },
+    {
+        "title": "Host, run, and code Python in the cloud: PythonAnywhere",
+        "url": "https://www.pythonanywhere.com/"
+    },
+    {
+        "title": "Postman API Platform",
+        "url": "https://www.postman.com/"
+    },
+    {
+        "title": "ChatGPT for Google",
+        "url": "https://webapp.chatgpt4google.com/first-install?extId=jgjaeacdkonaoafenlfkkkmbaopkbilf"
+    },
+    {
+        "title": "Photopea | Online Photo Editor",
+        "url": "https://www.photopea.com/"
+    },
+    {
+        "title": "imagination_world1212 - Watch Anonymously and Download Instagram Stories Online",
+        "url": "https://insta-stories-viewer.com/imagination_world1212/"
+    },
+    {
+        "title": "Red Car on A Dirt Road Free Stock Video Footage Download HD Clips",
+        "url": "https://mazwai.com/video/red-car-on-a-dirt-road/455203"
+    },
+    {
+        "title": "vmedulife Learner Dashboard",
+        "url": "https://portal.vmedulife.com/student/Summary.php"
+    },
+    {
+        "title": "Dad Jokes API Documentation (KegenGuyll) | RapidAPI",
+        "url": "https://rapidapi.com/KegenGuyll/api/dad-jokes/"
+    },
+    {
+        "title": "24 Free Public APIs for Developers & Free Alternatives List - August, 2023 | RapidAPI",
+        "url": "https://rapidapi.com/collection/list-of-free-apis"
+    },
+    {
+        "title": "CSV files for download | Stats NZ",
+        "url": "https://www.stats.govt.nz/large-datasets/csv-files-for-download/"
+    },
+    {
+        "title": "Bugatti Chiron Super Sport Golden Era 4K Wallpaper - HD Car Wallpapers #24783",
+        "url": "https://www.hdcarwallpapers.com/bugatti_chiron_super_sport_golden_era_4k-wallpapers"
+    },
+    {
+        "title": "Sider: ChatGPT Sidebar + GPT-4o, Claude 3, Gemini 1.5 & AI Tools",
+        "url": "https://sider.ai/"
+    },
+    {
+        "title": "Chat Blackbox: AI Code Generation, Code Chat, Code Search - Blackbox",
+        "url": "https://www.blackbox.ai/"
+    },
+    {
+        "title": "Python Software Foundation Sponsors | Python Software Foundation",
+        "url": "https://www.python.org/psf/sponsors/?ea-publisher=psf#nvidia"
+    },
+    {
+        "title": "Convert Youtube Videos to MP3 for Free - Y2Mate",
+        "url": "https://en.y2mate.is/v41/youtube-to-mp3.html"
+    },
+    {
+        "title": "Login | AssignmentGPT AI",
+        "url": "https://app.assignmentgpt.ai/?source=g&device=c&campaignid=21047463791&keyword=homework%20solver&gad_source=1&gclid=CjwKCAjw6c63BhAiEiwAF0EH1LkPoFFxliJiskcOrIkdhqOxA8pW_qv6MPbSIs5ckt7yl76G4nDrhhoC0toQAvD_BwE"
+    },
+    {
+        "title": "(153) YouTube",
+        "url": "https://www.youtube.com/"
+    },
+    {
+        "title": "CUDA Toolkit Archive | NVIDIA Developer",
+        "url": "https://developer.nvidia.com/cuda-toolkit-archive"
+    },
+    {
+        "title": "iPortfolio - Free Responsive Bootstrap 5 Portfolio Website Template - ThemeWagon",
+        "url": "https://themewagon.com/themes/iportfolio/"
+    },
+    {
+        "title": "Introducing BUGATTI Tourbillon Pour l’éternité",
+        "url": "https://www.bugatti.com/the-bugatti-models/tourbillon/"
+    },
+    {
+        "title": "Bugatti Phone Wallpapers - WSupercars",
+        "url": "https://www.wsupercars.com/phonewallpapers/?category_name=bugatti"
+    },
+    {
+        "title": "Uplers | Opportunity",
+        "url": "https://ats.uplers.com/talent/all-opportunities/HR1173467423539286?src=Auto-Linkedin&source=QmpFdXRLZ1NzcEVxVnlscUx6YVVoUT09"
+    },
+    {
+        "title": "cuvette.tech/app/dashboard/other-jobs/6798698cbb1c149a2de4380b",
+        "url": "https://cuvette.tech/app/dashboard/other-jobs/6798698cbb1c149a2de4380b"
+    },
+    {
+        "title": "Build for everyone — Google Careers",
+        "url": "https://www.google.com/about/careers/applications/?utm_campaign=profilepage&utm_medium=profilepage&utm_source=linkedin&src=Online/LinkedIn/linkedin_page"
+    },
+    {
+        "title": "deepseek-ai/DeepSeek-V2 · Hugging Face",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V2"
+    },
+    {
+        "title": "Ollama",
+        "url": "https://ollama.com/"
+    },
+    {
+        "title": "AICTE Internship Enterprise Portal - Learning by doing. 1 Crore Internships by 2025",
+        "url": "https://internship.aicte-india.org/module_student/index_dashboard.php"
+    },
+    {
+        "title": "ArtStation - Bugatti Chiron - Automotive rendering in Unreal Engine",
+        "url": "https://www.artstation.com/artwork/b5Q31d"
+    },
+    {
+        "title": "Edit photo for resume",
+        "url": "https://chatgpt.com/c/69295b8c-cd74-8323-9b3d-9e79b1c2694e"
+    },
+    {
+        "title": "moltbook - the front page of the agent internet",
+        "url": "https://www.moltbook.com/"
+    },
+    {
+        "title": "Passport Seva",
+        "url": "https://services1.passportindia.gov.in/psp/ApplyPassport"
+    },
+    {
+        "title": "movies downloads",
+        "url": "https://mkvcinema-official.lol/"
+    },
+    {
+        "title": "MoviesVerse | MovieVerse – Download Latest HD Hollywood, Anime, Dual Audio Movies And Series, 2160p, 1080p, 720p and 480p.",
+        "url": "https://hdmovieverse.xyz/"
+    },
+    {
+        "title": "KMMOVIES - The New Home of Khatrimaza | Free 4K Movies",
+        "url": "https://kmmovies.lol/"
+    },
+    {
+        "title": "LangChain Tutorial - GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/data-science/langchain-tutorial/"
+    },
+    {
+        "title": "Forza Horizon 4 Ultimate Edition [MULTi16-ElAmigos] (Update v1.443.701.2) » Free Download PC Games - Crack - Direct Links",
+        "url": "https://gamepcfull.com/forza-horizon-4-ultimate-edition-free-download/"
+    },
+    {
+        "title": "cc",
+        "url": "https://filecrypt.co/Container/54989D3AC8.html"
+    },
+    {
+        "title": "Filecrypt1",
+        "url": "https://filecrypt.co/Container/5189156EDD.html"
+    },
+    {
+        "title": "train",
+        "url": "https://filecrypt.co/Container/E9E43E5CC0.html"
+    },
+    {
+        "title": "Cyberpunk 2077 - Drivegame - Free Download Games Google Drive",
+        "url": "https://www.drivesgame.my.id/p/cdrr2077.html"
+    },
+    {
+        "title": "Ultra Realistic: How To Download Natural Vision Evolved Epic Game | GTA 5 Mods - YouTube",
+        "url": "https://www.youtube.com/watch?v=lB6VHipi_ys"
+    },
+    {
+        "title": "yoyoy gta5",
+        "url": "https://www.youtube.com/watch?v=VNGNx_auX-Q"
+    },
+    {
+        "title": "NVE by BeGamerX - Google Drive",
+        "url": "https://drive.google.com/file/d/1-_4QnPDiY8sjZMNB-oZ00drpAysUmH0T/view"
+    },
+    {
+        "title": "Filecrypt",
+        "url": "https://filecrypt.co/Container/3F47D5DF35.html"
+    },
+    {
+        "title": "NPTEL Swayam Central",
+        "url": "https://swayam.gov.in/"
+    },
+    {
+        "title": "LocalChapter :: NPTEL",
+        "url": "https://nptel.ac.in/localchapter"
+    },
+    {
+        "title": "Simple Browser - Qt for Python",
+        "url": "https://doc.qt.io/qtforpython-6/examples/example_webenginewidgets_simplebrowser.html#files-and-attributions"
+    },
+    {
+        "title": "Qt Designer and Python: Build Your GUI Applications Faster – Real Python",
+        "url": "https://realpython.com/qt-designer-python/"
+    },
+    {
+        "title": "GDToT | Direct Download Bullet Train (2022) 2160p WEBDL SDR 10bit HEVC [Hindi DDP 5.1 English DD 5.1] x265 - Vegamovies.to.mkv",
+        "url": "https://new5.gdtot.dad/ddl"
+    },
+    {
+        "title": "Download Bullet Train (2022) Dual Audio [Hindi ORG + English] WEB-DL 480p [400MB] | 720p [1.1GB] | 1080p [3GB] | 2160p 4K [11GB] - Vegamovies",
+        "url": "https://vegamovies.nu/download-bullet-train-2022-dual-audio-hindi-org-web-dl-480p-720p-1080p-2160p-4k/"
+    },
+    {
+        "title": "Nifty 50 24,900.95 ▼ -0.97%",
+        "url": "https://pro.upstox.com/"
+    },
+    {
+        "title": "HTML  |  web.dev",
+        "url": "https://web.dev/html"
+    },
+    {
+        "title": "Browse Movies - Latest & Popular Movie Titles | KMMovies",
+        "url": "https://kmmovies.lol/category/movies/"
+    },
+    {
+        "title": "Indishare - Easy way to Share Your Files Earn Money",
+        "url": "http://www.indishare.me/f/3ec5gv-6xcsaxp7eewk3"
+    },
+    {
+        "title": "GTA San Andreas Download (Normal + MOD APK + OBB) For Android",
+        "url": "https://techylist.com/gta-san-andreas-mod-apk/"
+    },
+    {
+        "title": "वाचिक एवं अवाचिक संचार|verbal and non verbal communication in hindi|Masshunt – Masshunt",
+        "url": "https://www.google.co.in/amp/s/masshunt.wordpress.com/2018/01/12/%E0%A4%B5%E0%A4%BE%E0%A4%9A%E0%A4%BF%E0%A4%95-%E0%A4%8F%E0%A4%B5%E0%A4%82-%E0%A4%85%E0%A4%B5%E0%A4%BE%E0%A4%9A%E0%A4%BF%E0%A4%95-%E0%A4%B8%E0%A4%82%E0%A4%9A%E0%A4%BE%E0%A4%B0/amp/"
+    },
+    {
+        "title": "3D models by Smartways Tech 3D (@abhishekverma) - Sketchfab",
+        "url": "https://sketchfab.com/abhishekverma/models"
+    },
+    {
+        "title": "Uber Eats",
+        "url": "https://www.ubereats.com/en-IN/orders/f4f218e2-359a-4595-8372-a3fa16645e04/"
+    },
+    {
+        "title": "एक अच्छा लीडर कैसे बने Top Leadership Skills in Hindi - SuccessInHindi",
+        "url": "http://www.successinhindi.com/2017/02/top-leadership-skills-in-hindi/"
+    },
+    {
+        "title": "Poliigon",
+        "url": "https://www.poliigon.com/category"
+    },
+    {
+        "title": "Avengers Infinity War 2018 Hindi ORG Dual Audio 720p BluRay 1.4GB Download",
+        "url": "https://www.filmfree4u.ws/avengers-infinity-war-2018-hindi-org-dual-audio-720p-bluray-1-4gb/"
+    },
+    {
+        "title": "View Links - Linkshub",
+        "url": "https://linkshub.ws/view/G7fdFtenO5"
+    },
+    {
+        "title": "Refer & Earn free Paytm Cash. Invite friends to join PayBox.",
+        "url": "https://www.pay-box.in/profile/share"
+    },
+    {
+        "title": "Presentation of 40 Quize Questions. - Google Slides",
+        "url": "https://docs.google.com/presentation/d/1-IuFRHhPP4mf8FLv1bF1BKD713P_AeMHPHGIfn-7x6M/edit#slide=id.p1"
+    },
+    {
+        "title": "Simple Program for Single Inheritance Using C++ Programming - C++ Programming Concepts",
+        "url": "https://www.cpp.thiyagaraaj.com/c-programs/simple-program-for-single-inheritance-using-c-programming"
+    },
+    {
+        "title": "Deadpool 2 2018 Dual Audio ORG Hindi HDRip 720p 900MB | HDMoviePlus",
+        "url": "https://hdmovieplus.com/deadpool-2-2018-dual-audio-org-hindi-hdrip-720p-900mb/"
+    },
+    {
+        "title": "Deadpool 2 Google Drive Bluray 720p Hin+Eng 1.3GB » Movies Get Tube",
+        "url": "https://moviesgettube.com/2018/08/19/deadpool-2-4/"
+    },
+    {
+        "title": "Audio Library - YouTube",
+        "url": "https://www.youtube.com/audiolibrary/music?feature=blog"
+    },
+    {
+        "title": "UberEATS Coupons: Rs 100 off Promo codes and offers, Nov 2018",
+        "url": "http://www.myfirstcoupon.com/ubereats-coupons-promo-codes"
+    },
+    {
+        "title": "भारतीय संविधान की प्रस्तावना के मुख्य सिद्धांत - Preamble in Hindi",
+        "url": "https://www.sansarlochan.in/bhartiya-samvidhan-ki-prastavana-preamble-hindi/"
+    },
+    {
+        "title": "The Cave +Obb for Android - Latest Version 1.1.9 | Free Download Apps & Games | Appxv.com",
+        "url": "https://appxv.com/DownSoft/?softid=8009"
+    },
+    {
+        "title": "PEEPLink - Private Linking Service",
+        "url": "https://peeplink.in/ace3ab0e96c8"
+    },
+    {
+        "title": "The Philosophy of The Indian Constitution | Vivace Panorama",
+        "url": "http://www.vivacepanorama.com/the-philosophy-of-the-indian-constitution/"
+    },
+    {
+        "title": "Search Results for 10:48:B1:C5:5E:12 | Mac Vendors",
+        "url": "https://macvendors.co/results/10:48:B1:C5:5E:12"
+    },
+    {
+        "title": "भारत में मानवाधिकार: लक्षण और प्रकार",
+        "url": "https://translate.googleusercontent.com/translate_c?depth=1&hl=hi&nv=1&prev=search&rurl=translate.google.com&sl=en&sp=nmt4&u=http://www.yourarticlelibrary.com/essay/human-rights-in-india-characteristics-and-types-2/47118&xid=17259,15700021,15700122,15700124,15700149,15700186,15700191,15700201,15700237&usg=ALkJrhirsokXEKNilEjkK7Ca7BujsSuiCg"
+    },
+    {
+        "title": "उपभोक्ता व्यवहार का अर्थ, परिभाषा, विशेषताएँ, प्रकृति एवं घटक",
+        "url": "https://www.scotbuzz.org/2018/09/upabhokta-vyavahar.html?m=1"
+    },
+    {
+        "title": ":: Write to the Prime Minister ::",
+        "url": "https://pmopg.gov.in/pmocitizen/Grievancepmo.aspx"
+    },
+    {
+        "title": "Interact with PM | Prime Minister of India",
+        "url": "http://www.pmindia.gov.in/en/interact-with-honble-pm/"
+    },
+    {
+        "title": "Unlocked Links. | MoviesBay",
+        "url": "https://moviesbay.co/go?id=19358"
+    },
+    {
+        "title": "Drive URL | Google Drive Direct Link Generator",
+        "url": "http://driveurl.com/file/Y4LjV3BfBZlAPx5oTyx5NkwG_s_eFaWV873fm8ruAU9V9i2jeuZobp_p_w_e__e_/"
+    },
+    {
+        "title": "za.gl",
+        "url": "https://za.gl/2WJDp7"
+    },
+    {
+        "title": "Upload and Share Videos | Dailymotion",
+        "url": "https://www.dailymotion.com/upload"
+    },
+    {
+        "title": "50 Work from Home Companies That Pay $16 Hourly (or More)",
+        "url": "https://www.dreamhomebasedwork.com/make-16-per-hour-to-work-from-home/"
+    },
+    {
+        "title": "Gold Surveys | Swagbucks",
+        "url": "http://www.swagbucks.com/surveys?p=1&m=4&ls=31&a=5"
+    },
+    {
+        "title": "Grab Points - Home",
+        "url": "https://members.grabpoints.com/#/home"
+    },
+    {
+        "title": "Post - Quora",
+        "url": "https://getzwifi.quora.com/How-to"
+    },
+    {
+        "title": "How to crack Wi-fi without WPS or wordlists - [Solved] - Wireless Networking",
+        "url": "http://www.tomshardware.com/answers/id-1927451/crack-wps-wordlists.html"
+    },
+    {
+        "title": "Top 10 Ways to Hack Wifi Password [WEP,WPA,WPA2,WPS] AUTENTICATION - Resources - Mi Community - Xiaomi",
+        "url": "https://in.c.mi.com/thread-319295-1-0.html"
+    },
+    {
+        "title": "Home | Swagbucks",
+        "url": "http://www.swagbucks.com/"
+    },
+    {
+        "title": "View Status",
+        "url": "https://pgportal.gov.in/Status/Index"
+    },
+    {
+        "title": "Dashboard",
+        "url": "https://clicksfly.com/member/dashboard"
+    },
+    {
+        "title": "AdFly - The URL shortener service that pays you! Earn money for every visitor to your links.",
+        "url": "https://adf.ly/"
+    },
+    {
+        "title": "Receive SMS Online | Temporary SMS and Disposable Numbers",
+        "url": "https://smsreceivefree.com/"
+    },
+    {
+        "title": "Google – My Activity",
+        "url": "https://myactivity.google.com/delete-activity?hl=en-IN&utm_source=google&restrict=search"
+    },
+    {
+        "title": "Boat Rockerz 400 On-Ear Bluetooth Headphones: Amazon.in: Electronics",
+        "url": "https://www.amazon.in/Boat-Rockerz-400-Bluetooth-Headphones/dp/B01J82IYLW?channel=dyn%7Bifmobile%3Amobile%7D%26placement%3D%7Bplacement%7D%26target%3D%7Btarget%7D%26campaignid%3D%7Bcampaignid%7D&tag=googinremarketing54-21&gclid=EAIaIQobChMItuHAtPm43wIVcyhyCh1anwa2EAEYASACEgKiWfD_BwE"
+    },
+    {
+        "title": "Boat Rockerz 400 On-Ear Bluetooth Headphones: Amazon.in: Electronics",
+        "url": "https://www.amazon.in/Boat-Rockerz-400-Bluetooth-Headphones/dp/B01J82IYLW/ref=mp_s_a_1_3?ie=UTF8&qid=1545711931&sr=8-3&pi=AC_SX118_SY170_FMwebp_QL65&keywords=best+headset+under+1500&dpPl=1&dpID=416S59oGZBL&ref=plSrch"
+    },
+    {
+        "title": "Boat Rockerz 510 Wireless Bluetooth Headphones (Jazzy Blue): Buy Boat Rockerz 510 Wireless Bluetooth Headphones (Jazzy Blue) Online at Low Price in India - Amazon.in",
+        "url": "https://www.amazon.in/Boat-Rockerz-510-Bluetooth-Headphones/dp/B0749D4QM9/ref=mp_s_a_1_3?ie=UTF8&qid=1545732095&sr=1-3&pi=AC_SX118_SY170_FMwebp_QL65&keywords=boat%2Brockers%2B510&dpPl=1&dpID=41jS-WLxY6L&ref=plSrch&th=1&psc=1"
+    },
+    {
+        "title": "Architecture of ADO.Net | Computer Hindi Notes | Computer Hindi Notes",
+        "url": "https://www.google.com/amp/s/computerhindinotes.com/architecture-of-ado-net/amp/"
+    },
+    {
+        "title": "C# typeof | Reflection in C# - Hindi. सीखें आसानी से",
+        "url": "https://www.bccfalna.com/csharp-typeof-reflection-in-c-sharp/"
+    },
+    {
+        "title": "The Matrix 3 Revolutions 2003 BluRay 999MB Hindi Dual Audio 720p",
+        "url": "https://bolly4u.wiki/the-matrix-3-revolutions-2003-bluray-999mb-hindi-dual-audio-720p/"
+    },
+    {
+        "title": "The Matrix 3 Revolutions (2003) [ Bolly4u.trade] Dual Audio BRRip 720p 999MB.mkv.mp4 | openload",
+        "url": "https://openload.co/f/ekwiH-eYmso"
+    },
+    {
+        "title": "Blends | Blend Swap",
+        "url": "https://www.blendswap.com/blends/index/page:6/sort:item_count/direction:desc"
+    },
+    {
+        "title": "Reset Your SSD With Windows DiskPart - crucial",
+        "url": "https://forums.crucial.com/t5/Crucial-SSDs/Reset-Your-SSD-With-Windows-DiskPart/ta-p/176654"
+    },
+    {
+        "title": "How to use DiskPart to clean and format a storage drive not working on Windows 10 | Windows Central",
+        "url": "https://www.google.com/amp/s/www.windowscentral.com/how-clean-and-format-storage-drive-using-diskpart-windows-10%3famp"
+    },
+    {
+        "title": "How to Diskpart Erase/Clean a Drive Through the Command Prompt | Seagate Support",
+        "url": "http://knowledge.seagate.com/articles/en_US/FAQ/005929en"
+    },
+    {
+        "title": "Tenda Wireless Router",
+        "url": "http://172.168.101.101/index.html"
+    },
+    {
+        "title": "720p Hindi Dubbed Archives | Page 2 of 71 | HDMoviePlus",
+        "url": "https://hdmovieplus.com/category/hindi-dubbed/720p-hindi-dubbed/page/2/"
+    },
+    {
+        "title": "iShort",
+        "url": "https://ilinks.in/LBtIui65g"
+    },
+    {
+        "title": "View Links - SafeLinkPlus",
+        "url": "https://safelinkplus.me/VAXAo45GFV"
+    },
+    {
+        "title": "HDMoviePlus.Ga%20-%20CM%202019%20720p%20HDCAM%20Hindi.mkv.mp4 | openload",
+        "url": "https://openload.co/f/vhaL3DfMudw#"
+    },
+    {
+        "title": "Login - Zippy Opinion",
+        "url": "https://in.zippyopinion.com/login/"
+    },
+    {
+        "title": "Worthy Shout| Paid Online Surveys India",
+        "url": "http://www.worthyshout.in/join.html"
+    },
+    {
+        "title": "Download 5th Passenger (2018) {Hindi-English} BluRay || 720p [705 mb] ~ Moviespoint- 300mb Movies, 480p Movies, 720p Movies, 600mb Movies, 500mb Movies, 900mb Movies, Hindi Dubbed Series, Tv series download, Moviespoint.in, Movies point 300mb",
+        "url": "https://moviespoint.in/download-5th-passenger-2018/"
+    },
+    {
+        "title": "gdrivelinks.me | Google Drive Direct Link Generator",
+        "url": "https://gdrivelinks.me//file/_p_alHtpTNFCp3AUMVYNCpxPkgkioKOhNKu8eXbnvKKJoJgiqN53OLvg_e__e_/?id=_p_alHtpTNFCp3AUMVYNCpxPkgkioKOhNKu8eXbnvKKJoJgiqN53OLvg_e__e_/"
+    },
+    {
+        "title": "What Is E Commerce in Hindi , E Commerce types with Example, Advantage and Disadvantage Hindi - Computervidya | Business Ideas in Hindi | Computer Network in Hindi",
+        "url": "https://www.computervidya.com/2019/04/what-is-e-commerce-in-hindi-types-advantage-disadvantage.html?m=1"
+    },
+    {
+        "title": "CloudVideo.tv",
+        "url": "https://cloudvideo.tv/dl?op=download_orig&id=mhp4gxxovegf&mode=h&hash=180124-103-96-1556375191-6dfd2276fd9a93600f73d9624a9cb23d"
+    },
+    {
+        "title": "collider.com",
+        "url": "https://www.google.com/amp/collider.com/mcu-timeline-explained/amp/"
+    },
+    {
+        "title": "सूचना प्रोद्योगिकी अधिनियम – 2000 क्या हैं? | Computer Hindi Notes",
+        "url": "https://www.google.com/amp/s/computerhindinotes.com/what-is-information-technology-act-2000/amp/"
+    },
+    {
+        "title": "E-Democracy क्या हैं? | Computer Hindi Notes | Computer Hindi Notes",
+        "url": "https://www.google.com/amp/s/computerhindinotes.com/what-is-e-democracy/amp/"
+    },
+    {
+        "title": "New tab",
+        "url": "chrome-native://newtab/"
+    },
+    {
+        "title": "ASUS F571 | Go beyond productivity and entertainment",
+        "url": "https://www.asus.com/in/Laptops/ASUS-VivoBook-Gaming-F571GT/"
+    },
+    {
+        "title": "https //cowin.gov.in - cowin - Google Search",
+        "url": "https://www.google.com/search?q=https+%2F%2Fcowin.gov.in+-+cowin&oq=http&aqs=chrome.2.69i57j0i131i433i512j0i433i512j0i512l3j0i433i512j0i131i433i512.4876j0j7&client=tablet-android-samsung-nf-rev1&sourceid=chrome-mobile&ie=UTF-8"
+    },
+    {
+        "title": "H",
+        "url": "https://www.google.com/search?q=https+%2F%2Fcowin.gov.in+-+cowin&oq=http&aqs=chrome.1.69i57j69i59j0i131i433i512j0i512l3j0i433i512j0i131i433i512.35142j0j9&client=tablet-android-samsung-nf-rev1&sourceid=chrome-mobile&ie=UTF-8"
+    },
+    {
+        "title": "Suggestions",
+        "url": "https://m.facebook.com/friends/center/suggestions/?fb_ref=bm&eav=AfarSPiJytgORfFWT7VvZZ7eatYw1FLOyvlU39DQEgnRj55gl5k1afHW6ueIBQaEr5s&paipv=0&ref=wizard"
+    },
+    {
+        "title": "Overview - Cloud API",
+        "url": "https://developers.facebook.com/docs/whatsapp/cloud-api/overview"
+    },
+    {
+        "title": "Communication APIs for SMS, Voice, Video & Authentication | Twilio",
+        "url": "https://www.twilio.com/"
+    },
+    {
+        "title": "Dashboard – My Project 001 – Google Cloud console",
+        "url": "https://console.cloud.google.com/home/dashboard?project=my-project-001-380215&cloudshell=false"
+    },
+    {
+        "title": "API Reference  |  Google Drive  |  Google Developers",
+        "url": "https://developers.google.com/drive/api/v3/reference?apix=true"
+    },
+    {
+        "title": "API Platform: The API-first framework (REST, GraphQL and real-time)",
+        "url": "https://api-platform.com/"
+    },
+    {
+        "title": "Playing and Recording Sound in Python – Real Python",
+        "url": "https://realpython.com/playing-and-recording-sound-python/#pyaudio_1"
+    },
+    {
+        "title": "Scoop",
+        "url": "https://scoop.sh/"
+    },
+    {
+        "title": "[Preview] README.md - Abhii0007 [Codespaces] - Visual Studio Code - Insiders",
+        "url": "https://abhii0007-psychic-guide-764gw5rqrwv2wxgx.github.dev/"
+    },
+    {
+        "title": "Will Mark International",
+        "url": "https://willmark.co/course.html"
+    },
+    {
+        "title": "Vocal Remover and Isolation [AI]",
+        "url": "https://vocalremover.org/"
+    },
+    {
+        "title": "NYMPHO Flamy ginger-haired Arietta Adams has her puss wrecked | X-HD.Video",
+        "url": "https://x-hd.video/video/nympho-flamy-ginger-haired-arietta-adams-has-her-puss.html"
+    },
+    {
+        "title": "Sound Booster 2023 - It's Your Volume Control - Chrome Web Store",
+        "url": "https://chrome.google.com/webstore/detail/sound-booster-2023-its-yo/pcedhgghoalplpjcnmngmeajomcpbjif/related"
+    },
+    {
+        "title": "(3) John Wick (2014) | Baba yaga scene | Hindi - YouTube",
+        "url": "https://www.youtube.com/watch?v=rrLgZVEvh-g"
+    },
+    {
+        "title": "Google Certified Courses Online | Grow with Google India",
+        "url": "https://grow.google/intl/en_in/certificates/?utm_source=hpp&utm_medium=cs&utm_campaign=ee&utm_id=GSC"
+    },
+    {
+        "title": "Remove Background from Image for Free – remove.bg",
+        "url": "https://www.remove.bg/upload"
+    },
+    {
+        "title": "Cad notes - ENGINEERING DRAWING - RGPV,BHOPAL",
+        "url": "https://www.slideshare.net/abhishekkandare/cad-notes-engineering-drawing-rgpvbhopal"
+    },
+    {
+        "title": "Sci-Fi Music | No Copyright Song & MP3 Free Downloads - Pixabay",
+        "url": "https://pixabay.com/music/search/sci-fi/"
+    },
+    {
+        "title": "Understanding the Basics of Unreal Engine | Unreal Engine 5.0 Documentation",
+        "url": "https://docs.unrealengine.com/5.0/en-US/understanding-the-basics-of-unreal-engine/"
+    },
+    {
+        "title": "GraphicAll — Blender Community",
+        "url": "https://blender.community/c/graphicall/?sorting=hot"
+    },
+    {
+        "title": "Adverk Technologies",
+        "url": "https://adverk.net/"
+    },
+    {
+        "title": "Unreal Engine 5 Tutorial for Beginners: Getting Started | Kodeco",
+        "url": "https://www.kodeco.com/31800833-unreal-engine-5-tutorial-for-beginners-getting-started"
+    },
+    {
+        "title": "How to Set Up Android SDK and NDK For Your Unreal Engine Development Environment | Unreal Engine 5.0 Documentation",
+        "url": "https://docs.unrealengine.com/5.0/en-US/how-to-set-up-android-sdk-and-ndk-for-your-unreal-engine-development-environment/"
+    },
+    {
+        "title": "Unreal Engine CPP Quick Start | Unreal Engine 5.0 Documentation",
+        "url": "https://docs.unrealengine.com/5.0/en-US/unreal-engine-cpp-quick-start/"
+    },
+    {
+        "title": "Download Success | Anaconda",
+        "url": "https://www.anaconda.com/download-success"
+    },
+    {
+        "title": "(113) Jupyter Notebook Tutorial for Beginners | Learn Python Jupyter in 40 Minutes | Amit Thinks | 2023 - YouTube",
+        "url": "https://www.youtube.com/watch?v=Ou-7G9VQugg"
+    },
+    {
+        "title": "HackerRank Python Tutorial - Python Nested Lists HackerRank Solution",
+        "url": "https://codersdaily.in/courses/hacker-rank-solution/python-nested-lists-hackerRank-solution"
+    },
+    {
+        "title": "Download Free Bleep Sound Effects | Mixkit",
+        "url": "https://mixkit.co/free-sound-effects/bleep/"
+    },
+    {
+        "title": "90,000+ Free Sound Effects for Download - Pixabay - Pixabay",
+        "url": "https://pixabay.com/sound-effects/"
+    },
+    {
+        "title": "http://google.com/",
+        "url": "http://google.com/"
+    },
+    {
+        "title": "Bookmarks",
+        "url": "https://codepen.io/natewiley/pen/BawOqL"
+    },
+    {
+        "title": "DSA Dijkstra's Algorithm",
+        "url": "https://www.w3schools.com/dsa/dsa_algo_graphs_dijkstra.php"
+    },
+    {
+        "title": "Image Classification with Gemini Pro - PyImageSearch",
+        "url": "https://pyimagesearch.com/2024/02/19/image-classification-with-gemini-pro/"
+    },
+    {
+        "title": "Untitled prompt | Google AI Studio",
+        "url": "https://aistudio.google.com/app/prompts/new_chat"
+    },
+    {
+        "title": "Sora",
+        "url": "https://openai.com/sora#research"
+    },
+    {
+        "title": "Harshit Saxena – Hale Dil Lyrics | Genius Lyrics",
+        "url": "https://genius.com/Harshit-saxena-hale-dil-lyrics"
+    },
+    {
+        "title": "192.168.11.39",
+        "url": "http://192.168.11.39:8000/"
+    },
+    {
+        "title": "JavaScript for Loop",
+        "url": "https://www.w3schools.com/js/js_loop_for.asp"
+    },
+    {
+        "title": "Read the Docs tutorial — Read the Docs user documentation",
+        "url": "https://docs.readthedocs.io/en/stable/tutorial/index.html"
+    },
+    {
+        "title": "Full featured documentation deployment platform - Read the Docs",
+        "url": "https://about.readthedocs.com/?ref=readthedocs.org"
+    },
+    {
+        "title": "Project Dashboard | Read the Docs",
+        "url": "https://readthedocs.org/dashboard/"
+    },
+    {
+        "title": "Software Copyright Registration: Legalising Your Software",
+        "url": "https://vakilsearch.com/blog/software-copyright-registration-legalising-your-software/"
+    },
+    {
+        "title": "Fee Details :: Copyright Office",
+        "url": "https://copyright.gov.in/frmfeedetailsshow.aspx"
+    },
+    {
+        "title": "Machine learning model uncovers new drug design opportunities",
+        "url": "https://phys.org/news/2024-05-machine-uncovers-drug-opportunities.amp"
+    },
+    {
+        "title": "Linear Regression in Machine learning - Javatpoint",
+        "url": "https://www.javatpoint.com/linear-regression-in-machine-learning"
+    },
+    {
+        "title": "Simple Linear Regression in Machine learning - Javatpoint",
+        "url": "https://www.javatpoint.com/simple-linear-regression-in-machine-learning"
+    },
+    {
+        "title": "AWS Skill Builder",
+        "url": "https://explore.skillbuilder.aws/learn/public/learning_plan/view/28/machine-learning-learning-plan?la=cta&cta=topbanner"
+    },
+    {
+        "title": "Machine Learning - Python Libraries",
+        "url": "https://www.tutorialspoint.com/machine_learning/machine_learning_ecosystem.htm"
+    },
+    {
+        "title": "ChatGPT",
+        "url": "https://chatgpt.com/c/c8c84d85-9753-4cb5-9a3e-65f4219df2d7"
+    },
+    {
+        "title": "10. Full Grammar specification — Python 3.12.4 documentation",
+        "url": "https://docs.python.org/3/reference/grammar.html"
+    },
+    {
+        "title": "Install Dreamweaver | Adobe Creative Cloud",
+        "url": "https://creativecloud.adobe.com/apps/download/dreamweaver"
+    },
+    {
+        "title": "Download Adobe Dreamweaver CC 2020 21.1.15413 - latest version",
+        "url": "https://en.softonic.com/download/adobe-dreamweaver/windows/post-download?ext=1"
+    },
+    {
+        "title": "Download Dreamweaver latest version in English",
+        "url": "https://www.malavida.com/en/soft/dreamweaver/download"
+    },
+    {
+        "title": "Facebook",
+        "url": "https://www.facebook.com/?paipv=0&eav=AfZxmInQKMe6n3idvnU6A-ZAumFdQzZ409bn6E6-kG89vKqVsXYVjdL9mmWIozfKHk4&_rdr"
+    },
+    {
+        "title": "How to Get Internship at Nvidia: Tips and Tricks in 2024",
+        "url": "https://www.coursejoiner.com/internship/how-to-get-internship-at-nvidia/"
+    },
+    {
+        "title": "Defonic | A fabulous ambient noise generator",
+        "url": "https://defonic.com/"
+    },
+    {
+        "title": "(66) 8 GAZAB Websites You Won't Believe Exist! - YouTube",
+        "url": "https://www.youtube.com/watch?v=aLw81ubdz6U"
+    },
+    {
+        "title": "Zenbook - All Models｜Laptops For Students｜ASUS Global",
+        "url": "https://www.asus.com/laptops/for-students/all-series/filter?Series=TUF-Gaming"
+    },
+    {
+        "title": "Lenovo IdeaPad Gaming 3 AMD Ryzen 7 5800H 15.6\" (39.62cm) FHD IPS Gaming Laptop (16GB/512GB SSD/4GB NVIDIA RTX 3050/120Hz/Win 11/Office 2021/Backlit/3months Game Pass/Shadow Black/2.25Kg), 82K201UMIN : Amazon.in: Electronics",
+        "url": "https://www.amazon.in/dp/B0B56DRGBC?tag=et_pwa_toptrendingproduct-21"
+    },
+    {
+        "title": "ASUS TUF Gaming F15, Intel Core i7 12700H 12th Gen, 15.6-inch FHD 144Hz, Gaming Laptop (16GB/512GB SSD/NVIDIA GeForce RTX 3050/Windows 11/90WHr/Jaeger Gray/2.2 Kg), FX577ZC-HN193W : Amazon.in: Electronics",
+        "url": "https://www.amazon.in/ASUS-15-6-inch-GeForce-Windows-FX577ZC-HN193W/dp/B0D5DB77RT/ref=sr_1_6?crid=2CK36MC2EUP6R&dib=eyJ2IjoiMSJ9.JtCcJNP7dqH7jzHw7gP0tIkZTrDT0GezsMMjbLbVZemFWcTJIYz-t1eg5yvQN_qnz8bzHibJirbeC3QXkgBEB6wDYO3ojpfPKViD0SAdVgda4NAb-HkABjlZw6pmsjCPtM-5EOuKhO9zNT_dMvWc97wZlMCIPAAevTGbdOs4Yhab9Y64Ph0MjUITUn7nc_Ym5NMnAbqceYd5C8UGyUVEersrDTX_h_hjvSjm_bK59U2Kfrf9lW8TwmhIpcz2zv7IR3deeaFWjncfgqA40sGUWkK0EPfmS0qcKZq2x78HTR8.LyolJELFN21t2qAcec_j1UQFh76oHIyACsoBJQOXk6o&dib_tag=se&keywords=I7+12700h+laptops&qid=1728189660&s=computers&sprefix=i7+12700h+laptops%2Ccomputers%2C477&sr=1-6"
+    },
+    {
+        "title": "ASUS Vivobook 16X, 16\" FHD+, 144Hz 300nits, Intel Core i5-12500H 2.5 GHz, Creator/Gaming Laptop (16GB RAM/512GB SSD/RTX 4050/win 11/Office Home/70WHr Battery/Indie Black/1.80 kg), K3605ZU-RP304WS : Amazon.in: Electronics",
+        "url": "https://www.amazon.in/ASUS-Vivobook-300nits-i5-12500H-K3605ZU-RP304WS/dp/B09LCF8XKF/ref=sr_1_101?crid=2CK36MC2EUP6R&dib=eyJ2IjoiMSJ9.qhXktHRM2YczRzO-qKZr_AQPPCKm6Go12bl21bGVWy7GjHj071QN20LucGBJIEps.I9RCirEll4AMhF0KMccFEOM7ip2RwUhwnmDNnPRYsSY&dib_tag=se&keywords=I7+12700h+laptops&qid=1728190186&s=computers&sprefix=i7+12700h+laptops%2Ccomputers%2C477&sr=1-101"
+    },
+    {
+        "title": "Amazon.in: Buy ASUS Vivobook S15 OLED (2022) 15.6\" (39.62 cms) FHD OLED, Intel Core Evo i5-12500H 12th Gen, Thin and Light Laptop (16GB/512GB SSD/Iris Xe Graphics/Windows 11/Office 2021/Green/1.8 kg) K3502ZA-L503WS Online at Low Prices in India | ASUS Reviews & Ratings",
+        "url": "https://www.amazon.in/ASUS-Vivobook-Intel-Core-Evo-i5-12500H-K3502ZA-L503WS/dp/B09YHCC26T/ref=sr_1_5?adgrpid=60577977764&dib=eyJ2IjoiMSJ9.ikNCH8rGSQPpEqvWA0cUdTE2_A0DowbSM_heTo5t3U6ORTyD4Eww1AdOWCKqXqCWYpyASkcFfDmdoh5XRp-3Qlu9BorriiBXkM6ofCusS7cQUrFMm6xldIzd4d0lecqvzbLwnxpyD37RQ47dUrkRpzWML7bRcy9YQeA_rQDUCq_4HscLv144KciUhAO6E86-iSwP15mvtYGy3us5nYdn5l7-S0Z6fZcCGxC-LJESD1s.4rRZ8pqZZPeh5MzI_ZJKL2whjT-RVOIrZKBQyxP0-wA&dib_tag=se&ext_vrnc=hi&hvadid=294118833777&hvdev=c&hvlocphy=9146605&hvnetw=g&hvqmt=e&hvrand=2565753583902855778&hvtargid=kwd-330803678301&hydadcr=26945_2040134&keywords=asus%2Bvivobook%2Bs%2B15&nsdOptOutParam=true&qid=1728190674&sr=8-5&th=1"
+    },
+    {
+        "title": "ASUS Vivobook 16X, 16\" FHD+, 144Hz 300nits, Intel Core i5-12500H 2.5 GHz, Creator/Gaming Laptop (16GB RAM/512GB SSD/RTX 4050/win 11/Office Home/70WHr Battery/Indie Black/1.80 kg), K3605ZU-RP304WS : Amazon.in: Electronics",
+        "url": "https://www.amazon.in/ASUS-Vivobook-300nits-i5-12500H-K3605ZF-RP258WS/dp/B09LCJ87VC/ref=sr_1_14?adgrpid=137723245425&dib=eyJ2IjoiMSJ9.fMxiEedtrTFSInC4wcmCOBe8c8hiOuFvlXCOt0SB6_lq6nyjXXohA2zYOnQq--676YlzkhNztPSIkV9tF34uje1LTJxJT2GKlxylEiXAUfJbDqyGkKMqDRBUElHST6C7Cf7QCS9EqgeUBtfdd0a6ZJj5W7Io6JVwG2_yNoqY91aG13vTQx91OW6OW6BN9AKIy1dgRTDb4mU8t1Cv5sU5pjk2kJoJv3FwJ3rcorilFW4.5jrpLMmc95wyB9G0RkzZ2WHyKA8_NtRdiRE6D0QrO3c&dib_tag=se&ext_vrnc=hi&hvadid=607406645473&hvdev=c&hvlocphy=9146605&hvnetw=g&hvqmt=e&hvrand=2202993304435310450&hvtargid=kwd-1685707874066&hydadcr=26945_2178281&keywords=i5+12500h+rtx+3050&qid=1728918397&sr=8-14"
+    },
+    {
+        "title": "Instagram",
+        "url": "https://www.instagram.com/p/C-e-hFqxkM3/"
+    },
+    {
+        "title": "AL-501 Operating System Nov 2023 Question Paper - Total No. of Questions : 8] [Total No. of Printed - Studocu",
+        "url": "https://www.studocu.com/in/document/rajiv-gandhi-proudyogiki-vishwavidyalaya/operating-system/al-501-operating-system-nov-2023-question-paper/80200455?origin=search-results"
+    },
+    {
+        "title": "Instagram",
+        "url": "https://www.instagram.com/reels/DEC0Nqsz6tt/"
+    },
+    {
+        "title": "MediaPipe: Google's Open Source Framework (2024 Guide) - viso.ai",
+        "url": "https://viso.ai/computer-vision/mediapipe/#:~:text=computer%20vision%20platform-,What%20is%20MediaPipe%3F,currently%20in%20alpha%20at%20v0."
+    },
+    {
+        "title": "Thanks for Installing EdrawMax - Edraw",
+        "url": "https://www.edrawsoft.com/ad/thankyou/install-edrawmax.html?f=product-inst"
+    },
+    {
+        "title": "(40) Generate PDF files with Python and ReportLab - #1 - YouTube",
+        "url": "https://www.youtube.com/watch?v=ZDR7-iSuwkQ&list=PLOGAj7tCqHx-IDg2x6cWzqN0um8Z4plQT"
+    },
+    {
+        "title": "Instagram",
+        "url": "https://www.instagram.com/p/DE30BksSCDC/"
+    },
+    {
+        "title": "locomotive-scroll examples - CodeSandbox",
+        "url": "https://codesandbox.io/examples/package/locomotive-scroll"
+    },
+    {
+        "title": "Instagram",
+        "url": "https://www.instagram.com/poojaadhikari05/"
+    },
+    {
+        "title": "Action Center | Microsoft Careers",
+        "url": "https://jobs.careers.microsoft.com/actioncenter/submitted"
+    },
+    {
+        "title": "(134) Synthetic data generation for AI training — Blender Conference 2024 - YouTube",
+        "url": "https://www.youtube.com/watch?v=iuDv3TS-xQA"
+    },
+    {
+        "title": "hdqwalls.com Best Source For HD,4k,5k,8k Wallpapers",
+        "url": "https://hdqwalls.com/"
+    },
+    {
+        "title": "Instagram",
+        "url": "https://www.instagram.com/reels/DGIrEKlPXCN/"
+    },
+    {
+        "title": "User Profile // Unstop",
+        "url": "https://unstop.com/u/abhisver76236"
+    },
+    {
+        "title": "Cosmos of HD Wallpapers",
+        "url": "https://wallpapercat.com/desktop#load"
+    },
+    {
+        "title": "Best AI Tools Directory & AI Tools List - Toolify",
+        "url": "https://www.toolify.ai/"
+    },
+    {
+        "title": "image wallpaper upscale ai - Google Search",
+        "url": "https://www.google.com/search?q=image+wallpaper+upscale+ai&oq=image+wallpaper+upscale+ai&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzQwNWowajeoAg-wAgE&client=tablet-android-samsung-nf-rev1&sourceid=chrome-mobile&ie=UTF-8"
+    },
+    {
+        "title": "Homepage | GSAP",
+        "url": "https://gsap.com/"
+    },
+    {
+        "title": "Algorithms by Jeff Erickson",
+        "url": "https://jeffe.cs.illinois.edu/teaching/algorithms/?utm_source=chatgpt.com"
+    },
+    {
+        "title": "Building Coding Agents with Tool Execution - DeepLearning.AI",
+        "url": "https://learn.deeplearning.ai/courses/building-coding-agents-with-tool-execution/lesson/deetno/introduction"
+    },
+    {
+        "title": "how-to-segment-videos-with-sam-2.ipynb - Colab",
+        "url": "https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-segment-videos-with-sam-2.ipynb?ref=blog.roboflow.com#scrollTo=4bgmAGORZJ7z"
+    },
+    {
+        "title": "SVP – SmoothVideo Project – Real Time Video Frame Rate Conversion",
+        "url": "https://www.svp-team.com/?utm_source=chatgpt.com"
+    },
+    {
+        "title": "my device - Google Search",
+        "url": "https://www.google.com/search?q=my+device&rlz=1C1PNBB_enIN1163IN1166&oq=my+device&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg70gEINTI1NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8"
+    },
+    {
+        "title": "Scribd Downloader – Download Scribd Documents & Books as PDF or PPTX",
+        "url": "https://scribsave.net/download"
+    },
+    {
+        "title": "Flowise - Build AI Agents, Visually",
+        "url": "https://flowiseai.com/?utm_source=chatgpt.com"
+    }
 ]
